@@ -1,2 +1,0 @@
-# Practicing some FTXUI
-
