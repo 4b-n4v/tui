@@ -73,15 +73,15 @@ CMakeFiles/ftxui-starter.dir/src/main.cpp.o: CMakeFiles/ftxui-starter.dir/flags.
 CMakeFiles/ftxui-starter.dir/src/main.cpp.o: /home/n4v/Projects/tui/src/main.cpp
 CMakeFiles/ftxui-starter.dir/src/main.cpp.o: CMakeFiles/ftxui-starter.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/n4v/Projects/tui/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ftxui-starter.dir/src/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui-starter.dir/src/main.cpp.o -MF CMakeFiles/ftxui-starter.dir/src/main.cpp.o.d -o CMakeFiles/ftxui-starter.dir/src/main.cpp.o -c /home/n4v/Projects/tui/src/main.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui-starter.dir/src/main.cpp.o -MF CMakeFiles/ftxui-starter.dir/src/main.cpp.o.d -o CMakeFiles/ftxui-starter.dir/src/main.cpp.o -c /home/n4v/Projects/tui/src/main.cpp
 
 CMakeFiles/ftxui-starter.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui-starter.dir/src/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/n4v/Projects/tui/src/main.cpp > CMakeFiles/ftxui-starter.dir/src/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/n4v/Projects/tui/src/main.cpp > CMakeFiles/ftxui-starter.dir/src/main.cpp.i
 
 CMakeFiles/ftxui-starter.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui-starter.dir/src/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/n4v/Projects/tui/src/main.cpp -o CMakeFiles/ftxui-starter.dir/src/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/n4v/Projects/tui/src/main.cpp -o CMakeFiles/ftxui-starter.dir/src/main.cpp.s
 
 # Object files for target ftxui-starter
 ftxui__starter_OBJECTS = \

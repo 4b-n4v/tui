@@ -182,17 +182,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named ftxui-starter
+# Target rules for targets named tui
 
 # Build rule for target.
-ftxui-starter: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ftxui-starter
-.PHONY : ftxui-starter
+tui: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tui
+.PHONY : tui
 
 # fast build rule for target.
-ftxui-starter/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/build
-.PHONY : ftxui-starter/fast
+tui/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tui.dir/build.make CMakeFiles/tui.dir/build
+.PHONY : tui/fast
 
 #=============================================================================
 # Target rules for targets named screen
@@ -238,7 +238,7 @@ src/main.o: src/main.cpp.o
 
 # target to build an object file
 src/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tui.dir/build.make CMakeFiles/tui.dir/src/main.cpp.o
 .PHONY : src/main.cpp.o
 
 src/main.i: src/main.cpp.i
@@ -246,7 +246,7 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tui.dir/build.make CMakeFiles/tui.dir/src/main.cpp.i
 .PHONY : src/main.cpp.i
 
 src/main.s: src/main.cpp.s
@@ -254,7 +254,7 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tui.dir/build.make CMakeFiles/tui.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
 # Help Target
@@ -273,8 +273,8 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... component"
 	@echo "... dom"
-	@echo "... ftxui-starter"
 	@echo "... screen"
+	@echo "... tui"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

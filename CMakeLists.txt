@@ -8,9 +8,9 @@ FetchContent_Declare(ftxui
 )
 FetchContent_MakeAvailable(ftxui)
  
-project(ftxui-starter LANGUAGES CXX VERSION 1.0.0)
-add_executable(ftxui-starter src/main.cpp)
-target_link_libraries(ftxui-starter
+project(tui LANGUAGES CXX VERSION 1.0.0)
+add_executable(tui src/main.cpp)
+target_link_libraries(tui
   PRIVATE ftxui::screen
   PRIVATE ftxui::dom
   PRIVATE ftxui::component # Not needed for this example.
