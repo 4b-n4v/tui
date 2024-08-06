@@ -1,6 +1,6 @@
 CMakeFiles/tui.dir/src/main.cpp.o: /home/n4v/Projects/tui/src/main.cpp \
  /usr/include/stdc-predef.h \
- /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/component.hpp \
  /usr/include/c++/14.2.1/functional \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -122,6 +122,11 @@ CMakeFiles/tui.dir/src/main.cpp.o: /home/n4v/Projects/tui/src/main.cpp \
  /usr/include/c++/14.2.1/backward/auto_ptr.h \
  /usr/include/c++/14.2.1/pstl/glue_memory_defs.h \
  /usr/include/c++/14.2.1/pstl/execution_defs.h \
+ /usr/include/c++/14.2.1/utility \
+ /usr/include/c++/14.2.1/bits/stl_relops.h \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/component_base.hpp \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
  /usr/include/c++/14.2.1/string \
  /usr/include/c++/14.2.1/bits/char_traits.h \
@@ -172,13 +177,39 @@ CMakeFiles/tui.dir/src/main.cpp.o: /home/n4v/Projects/tui/src/main.cpp \
  /usr/include/c++/14.2.1/bits/parse_numbers.h \
  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/component_options.hpp \
+ /usr/include/c++/14.2.1/chrono /usr/include/c++/14.2.1/bits/chrono.h \
+ /usr/include/c++/14.2.1/ratio /usr/include/c++/14.2.1/limits \
+ /usr/include/c++/14.2.1/ctime \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/animation.hpp \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
+ /usr/include/c++/14.2.1/atomic \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
+ /usr/include/c++/14.2.1/algorithm \
+ /usr/include/c++/14.2.1/bits/stl_algo.h \
+ /usr/include/c++/14.2.1/bits/algorithmfwd.h \
+ /usr/include/c++/14.2.1/bits/stl_heap.h \
+ /usr/include/c++/14.2.1/bits/uniform_int_dist.h \
+ /usr/include/c++/14.2.1/pstl/glue_algorithm_defs.h \
+ /usr/include/c++/14.2.1/condition_variable \
+ /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+ /usr/include/c++/14.2.1/bits/std_mutex.h \
+ /usr/include/c++/14.2.1/bits/unique_lock.h /usr/include/c++/14.2.1/mutex \
+ /usr/include/c++/14.2.1/queue /usr/include/c++/14.2.1/deque \
+ /usr/include/c++/14.2.1/bits/stl_deque.h \
+ /usr/include/c++/14.2.1/bits/deque.tcc \
+ /usr/include/c++/14.2.1/bits/stl_queue.h /usr/include/c++/14.2.1/thread \
+ /usr/include/c++/14.2.1/bits/std_thread.h \
+ /usr/include/c++/14.2.1/bits/this_thread_sleep.h \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
+ /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
  /usr/include/c++/14.2.1/iostream /usr/include/c++/14.2.1/ostream \
  /usr/include/c++/14.2.1/ios /usr/include/c++/14.2.1/bits/ios_base.h \
  /usr/include/c++/14.2.1/bits/locale_classes.h \
  /usr/include/c++/14.2.1/bits/locale_classes.tcc \
- /usr/include/c++/14.2.1/system_error \
- /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
- /usr/include/c++/14.2.1/stdexcept /usr/include/c++/14.2.1/streambuf \
+ /usr/include/c++/14.2.1/system_error /usr/include/c++/14.2.1/stdexcept \
+ /usr/include/c++/14.2.1/streambuf \
  /usr/include/c++/14.2.1/bits/streambuf.tcc \
  /usr/include/c++/14.2.1/bits/basic_ios.h \
  /usr/include/c++/14.2.1/bits/locale_facets.h \
