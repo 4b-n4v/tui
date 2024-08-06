@@ -31,7 +31,10 @@ int main(void)
                                  text("The Footer")});
 
         auto component = Renderer(buttons, [&]
-                                  { return vbox({vbox({document}), buttons->Render()}); });
+                                  { return vbox({text("The The Window") | bold | color(Color::Blue),
+                                                 gauge(len_gauge * 0.01f),
+                                                 text("The Footer"),
+                                                 buttons->Render()}); });
         auto screen = ScreenInteractive::FitComponent();
         screen.Loop(component);
         return 0;
