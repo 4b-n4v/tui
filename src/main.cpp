@@ -1,106 +1,28 @@
+#include <ftxui/component/captured_mouse.hpp>
 #include <ftxui/component/component.hpp>
-#include <ftxui/component/component_base.hpp>
 #include <ftxui/component/component_options.hpp>
 #include <ftxui/component/screen_interactive.hpp>
-#include <ftxui/dom/elements.hpp>
-#include <ftxui/dom/node.hpp>
-#include <ftxui/screen/color.hpp>
-#include <ftxui/screen/screen.hpp>
+#include <functional>
 #include <iostream>
+#include <string>
+#include <vector>
 
-int main(void)
+int main()
 {
     using namespace ftxui;
+    auto screen = ScreenInteractive::TerminalOutput();
 
-    // Element document = hbox({text("Header 1") | flex, separator() | flex, text("Header 2") | flex});
-    // document |= border;
-    //
-    // auto screen = Screen::Create(Dimension::Full(), Dimension::Fit(document));
-    // Render(screen, document);
-    // screen.Print();
-    auto cell = [](const char *t)
-    { return text(t) | border; };
-    auto document = gridbox({
-        {cell("north-west"), cell("north"), cell("north-east")},
-        {cell("west"), cell("center"), cell("east")},
-        {cell("south-west"), cell("south"), cell("south-east")},
-    });
-    auto screen = Screen::Create(Dimension::Full(), Dimension::Fit(document));
-    Render(screen, document);
-    screen.Print();
-    return 0;
+    std::vector<std::string> entries =
+        {
+            "Entry 1",
+            "Entry 2",
+            "Entry 3",
+        };
+    int selected = 0;
+
+    MenuOption option;
+    option.on_enter = screen.ExitLoopClosure();
+    auto menu = Menu(&entries, &selected, option);
+    screen.Loop(menu);
+    std::cout << "Selected element = " << selected << std::endl;
 }
-
-// clang-format off
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// int main(void)
-// {
-//     using namespace ftxui;
-//
-//     Element document =
-//         hbox({window(text("n4v"),
-//                      hbox(
-//                          {text("Thewindow"),
-//                           gaugeUp(0.5)}))});
-//
-//     auto screen = Screen::Create(Dimension::Full(), Dimension::Fit(document));
-//     Render(screen, document);
-//     screen.Print();
-//     return 0;
-// }
