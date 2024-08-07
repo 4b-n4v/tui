@@ -10,32 +10,97 @@
 
 int main(void)
 {
-        using namespace ftxui;
-        int len_gauge = 50;
-        // auto screen = Screen::Create(Dimension::Full(), Dimension::Full());
-        //
-        //
-        // auto &pixel = screen.PixelAt(9, 9);
-        // pixel.character = U'A';
-        // pixel.bold = true;
-        // pixel.foreground_color = Color::Blue;
-        //
-        // std::cout << screen.ToString();
-        auto buttons = Container::Horizontal({
-            Button("Increase", [&]
-                   { len_gauge++; }, ButtonOption::Animated(Color::RGB(234, 105, 80))),
-        });
+    using namespace ftxui;
 
-        Element document = vbox({text("The Window") | bold | color(Color::Blue),
-                                 gauge(len_gauge * 0.01f),
-                                 text("The Footer")});
-
-        auto component = Renderer(buttons, [&]
-                                  { return vbox({text("The The Window") | bold | color(Color::Blue),
-                                                 gauge(len_gauge * 0.01f),
-                                                 text("The Footer"),
-                                                 buttons->Render()}); });
-        auto screen = ScreenInteractive::FitComponent();
-        screen.Loop(component);
-        return 0;
+    // Element document = hbox({text("Header 1") | flex, separator() | flex, text("Header 2") | flex});
+    // document |= border;
+    //
+    // auto screen = Screen::Create(Dimension::Full(), Dimension::Fit(document));
+    // Render(screen, document);
+    // screen.Print();
+    auto cell = [](const char *t)
+    { return text(t) | border; };
+    auto document = gridbox({
+        {cell("north-west"), cell("north"), cell("north-east")},
+        {cell("west"), cell("center"), cell("east")},
+        {cell("south-west"), cell("south"), cell("south-east")},
+    });
+    auto screen = Screen::Create(Dimension::Full(), Dimension::Fit(document));
+    Render(screen, document);
+    screen.Print();
+    return 0;
 }
+
+// clang-format off
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int main(void)
+// {
+//     using namespace ftxui;
+//
+//     Element document =
+//         hbox({window(text("n4v"),
+//                      hbox(
+//                          {text("Thewindow"),
+//                           gaugeUp(0.5)}))});
+//
+//     auto screen = Screen::Create(Dimension::Full(), Dimension::Fit(document));
+//     Render(screen, document);
+//     screen.Print();
+//     return 0;
+// }
