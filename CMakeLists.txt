@@ -9,7 +9,7 @@ FetchContent_Declare(ftxui
 FetchContent_MakeAvailable(ftxui)
  
 project(tui LANGUAGES CXX VERSION 1.0.0)
-add_executable(tui src/main.cpp)
+add_executable(tui src/main.cpp src/helperfunctions.cpp)
 target_link_libraries(tui
   PRIVATE ftxui::screen
   PRIVATE ftxui::dom
