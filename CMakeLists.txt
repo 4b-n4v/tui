@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.11)
 include(FetchContent)
 
 # Set the output directory for all configurations
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "$ENV{HOME}/.local/bin")
+# set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "$ENV{HOME}/.local/bin")
 
 set(FETCHCONTENT_UPDATES_DISCONNECTED TRUE)
 FetchContent_Declare(

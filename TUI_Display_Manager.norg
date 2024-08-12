@@ -8,6 +8,7 @@
 ** Some things to consider
    How to change a monitor file?
    - Access a specific area of the user ~/.config/hypr/monitors.conf
+   - Tests for things like verifying monitors.conf file, correct directory, correct display config, etc.
    - Write access to this file.
 
 

@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/n4v/.local/bin/display-manager"
+			"path" : "display-manager"
 		}
 	],
 	"backtrace" : 1,

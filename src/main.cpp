@@ -16,8 +16,9 @@ int main(int argc, char **argv)
         std::cout << argv[0] << "takes no arguments.\n";
         return 1;
     }
+    // Get monitor path from function
     std::string monitorconf_path = get_monitor_path();
-    auto screen = ScreenInteractive::TerminalOutput();
+    // Define User Interface
     std::vector<std::string>
         entries =
             {
@@ -26,10 +27,14 @@ int main(int argc, char **argv)
 
     int selected = 0;
 
+    auto screen = ScreenInteractive::Fullscreen();
     MenuOption option;
     option.on_enter = screen.ExitLoopClosure();
-    auto menu = Menu(&entries, &selected, option);
-    screen.Loop(menu);
+    // Define border around  menu
+    // auto renderer = Renderer(menu, [&]
+    //                          { return menu->Render() | border | frame; });
+    auto layout = Container::Horizontal({Menu(&entries, &selected, option)});
+    screen.Loop(layout);
 
     if (selected == 0)
         extend144(monitorconf_path);
