@@ -1,4 +1,15 @@
 #pragma once
+#include <cstdlib>
+#include <fstream>
+#include <iostream>
+#include <string>
+/* FUNCTION
+ * get_monitor_path:
+ * Get monitors.conf configuration
+ * file path in $HOME/.config/hypr.conf
+ *
+ */
+std::string get_monitor_path();
 
 /* FUNCTION
  * Extend144:
@@ -6,7 +17,7 @@
  * and set refresh rate to maximum
  *
  */
-void extend144();
+void extend144(std::string &mp);
 
 /* FUNCTION
  * ExtendTV:
@@ -15,12 +26,4 @@ void extend144();
  *
  */
 
-void extend_tv();
-
-/* FUNCTION
- * get_monitor_path:
- * Get monitors.conf configuration
- * file path in $HOME/.config/hypr.conf
- *
- */
-void get_monitor_path();
+void extend_tv(std::string &mp);

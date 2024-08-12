@@ -1,4 +1,4 @@
-/home/n4v/Projects/tui/build/CMakeFiles/tui.dir
+/home/n4v/Projects/tui/build/CMakeFiles/display-manager.dir
 /home/n4v/Projects/tui/build/CMakeFiles/package.dir
 /home/n4v/Projects/tui/build/CMakeFiles/package_source.dir
 /home/n4v/Projects/tui/build/CMakeFiles/edit_cache.dir

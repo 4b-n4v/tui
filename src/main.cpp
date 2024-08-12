@@ -1,5 +1,4 @@
-#include "helperfunctions.cpp"
-#include <fstream>
+#include "helperfunctions.h"
 #include <ftxui/component/captured_mouse.hpp>
 #include <ftxui/component/component.hpp>
 #include <ftxui/component/component_options.hpp>
@@ -11,17 +10,18 @@
 
 int main(int argc, char **argv)
 {
+    using namespace ftxui;
     if (argc != 1)
     {
         std::cout << argv[0] << "takes no arguments.\n";
         return 1;
     }
-    using namespace ftxui;
+    std::string monitorconf_path = get_monitor_path();
     auto screen = ScreenInteractive::TerminalOutput();
     std::vector<std::string>
         entries =
             {
-                "󰍹  Extend144",
+                "󰍹  Extend-144",
                 "󰍹󰟴 Extend-TV"};
 
     int selected = 0;
@@ -30,14 +30,11 @@ int main(int argc, char **argv)
     option.on_enter = screen.ExitLoopClosure();
     auto menu = Menu(&entries, &selected, option);
     screen.Loop(menu);
+
     if (selected == 0)
-        extend144();
+        extend144(monitorconf_path);
     else if (selected == 1)
-        extend_tv();
+        extend_tv(monitorconf_path);
 
     return 0;
-}
-
-void extend144()
-{
 }

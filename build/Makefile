@@ -182,17 +182,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named tui
+# Target rules for targets named display-manager
 
 # Build rule for target.
-tui: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 tui
-.PHONY : tui
+display-manager: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 display-manager
+.PHONY : display-manager
 
 # fast build rule for target.
-tui/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/tui.dir/build.make CMakeFiles/tui.dir/build
-.PHONY : tui/fast
+display-manager/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/display-manager.dir/build.make CMakeFiles/display-manager.dir/build
+.PHONY : display-manager/fast
 
 #=============================================================================
 # Target rules for targets named screen
@@ -233,12 +233,36 @@ component/fast:
 	$(MAKE) $(MAKESILENT) -f _deps/ftxui-build/CMakeFiles/component.dir/build.make _deps/ftxui-build/CMakeFiles/component.dir/build
 .PHONY : component/fast
 
+src/helperfunctions.o: src/helperfunctions.cpp.o
+.PHONY : src/helperfunctions.o
+
+# target to build an object file
+src/helperfunctions.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/display-manager.dir/build.make CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o
+.PHONY : src/helperfunctions.cpp.o
+
+src/helperfunctions.i: src/helperfunctions.cpp.i
+.PHONY : src/helperfunctions.i
+
+# target to preprocess a source file
+src/helperfunctions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/display-manager.dir/build.make CMakeFiles/display-manager.dir/src/helperfunctions.cpp.i
+.PHONY : src/helperfunctions.cpp.i
+
+src/helperfunctions.s: src/helperfunctions.cpp.s
+.PHONY : src/helperfunctions.s
+
+# target to generate assembly for a file
+src/helperfunctions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/display-manager.dir/build.make CMakeFiles/display-manager.dir/src/helperfunctions.cpp.s
+.PHONY : src/helperfunctions.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
 # target to build an object file
 src/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/tui.dir/build.make CMakeFiles/tui.dir/src/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/display-manager.dir/build.make CMakeFiles/display-manager.dir/src/main.cpp.o
 .PHONY : src/main.cpp.o
 
 src/main.i: src/main.cpp.i
@@ -246,7 +270,7 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/tui.dir/build.make CMakeFiles/tui.dir/src/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/display-manager.dir/build.make CMakeFiles/display-manager.dir/src/main.cpp.i
 .PHONY : src/main.cpp.i
 
 src/main.s: src/main.cpp.s
@@ -254,7 +278,7 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/tui.dir/build.make CMakeFiles/tui.dir/src/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/display-manager.dir/build.make CMakeFiles/display-manager.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
 # Help Target
@@ -272,9 +296,12 @@ help:
 	@echo "... package_source"
 	@echo "... rebuild_cache"
 	@echo "... component"
+	@echo "... display-manager"
 	@echo "... dom"
 	@echo "... screen"
-	@echo "... tui"
+	@echo "... src/helperfunctions.o"
+	@echo "... src/helperfunctions.i"
+	@echo "... src/helperfunctions.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

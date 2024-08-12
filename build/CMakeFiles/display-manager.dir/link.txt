@@ -1,0 +1,1 @@
+/usr/bin/clang++ "CMakeFiles/display-manager.dir/src/main.cpp.o" "CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o" -o /home/n4v/.local/bin/display-manager  _deps/ftxui-build/libftxui-screen.a _deps/ftxui-build/libftxui-dom.a _deps/ftxui-build/libftxui-component.a _deps/ftxui-build/libftxui-dom.a _deps/ftxui-build/libftxui-screen.a

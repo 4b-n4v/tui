@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "_deps/ftxui-build",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.ftxui-build-1e38146494b4c6d49103.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build/_deps/ftxui-src",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3
+					]
+				},
+				{
+					"build" : "_deps/ftxui-build/examples",
+					"jsonFile" : "directory-_deps.ftxui-build.examples-12562b416b93e25c388c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/ftxui-src/examples"
+				},
+				{
+					"build" : "_deps/ftxui-build/doc",
+					"jsonFile" : "directory-_deps.ftxui-build.doc-2198135aec18b9a970ba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/ftxui-src/doc"
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TUI_Display_Manager",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"name" : "ftxui",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "component::@b65f64d0ea8424dee96a",
+					"jsonFile" : "target-component-8a5316708d8d20fa8410.json",
+					"name" : "component",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "display-manager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-display-manager-918c6f753e15653b36dd.json",
+					"name" : "display-manager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "dom::@b65f64d0ea8424dee96a",
+					"jsonFile" : "target-dom-44f97d33283141967a9f.json",
+					"name" : "dom",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "screen::@b65f64d0ea8424dee96a",
+					"jsonFile" : "target-screen-fd8039a8b949b0ba9034.json",
+					"name" : "screen",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/n4v/Projects/tui/build",
+		"source" : "/home/n4v/Projects/tui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

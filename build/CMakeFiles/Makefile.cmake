@@ -40,7 +40,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake/Modules/CheckIncludeFileCXX.cmake"
   "/usr/share/cmake/Modules/CheckLibraryExists.cmake"
   "/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
-  "/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake"
+  "/usr/share/cmake/Modules/Compiler/Clang-CXX.cmake"
+  "/usr/share/cmake/Modules/Compiler/Clang.cmake"
   "/usr/share/cmake/Modules/Compiler/GNU.cmake"
   "/usr/share/cmake/Modules/ExternalProject/shared_internal_commands.cmake"
   "/usr/share/cmake/Modules/FetchContent.cmake"
@@ -51,6 +52,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake/Modules/FindThreads.cmake"
   "/usr/share/cmake/Modules/GNUInstallDirs.cmake"
   "/usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake"
+  "/usr/share/cmake/Modules/Platform/Linux-Clang-CXX.cmake"
   "/usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake"
   "/usr/share/cmake/Modules/Platform/Linux-GNU.cmake"
   "/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake"
@@ -82,7 +84,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/tui.dir/DependInfo.cmake"
+  "CMakeFiles/display-manager.dir/DependInfo.cmake"
   "_deps/ftxui-build/CMakeFiles/screen.dir/DependInfo.cmake"
   "_deps/ftxui-build/CMakeFiles/dom.dir/DependInfo.cmake"
   "_deps/ftxui-build/CMakeFiles/component.dir/DependInfo.cmake"

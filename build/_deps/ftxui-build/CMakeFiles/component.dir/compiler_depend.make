@@ -3,57 +3,6 @@
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o: _deps/ftxui-src/src/ftxui/component/animation.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
-  /usr/include/alloca.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/flt-eval-method.h \
-  /usr/include/bits/fp-fast.h \
-  /usr/include/bits/fp-logb.h \
-  /usr/include/bits/iscanonical.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/libm-simd-decl-stubs.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/math-vector.h \
-  /usr/include/bits/mathcalls-helper-functions.h \
-  /usr/include/bits/mathcalls-narrow.h \
-  /usr/include/bits/mathcalls.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/binders.h \
   /usr/include/c++/14.2.1/bit \
@@ -144,6 +93,57 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o: 
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/flt-eval-method.h \
+  /usr/include/bits/fp-fast.h \
+  /usr/include/bits/fp-logb.h \
+  /usr/include/bits/iscanonical.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/libm-simd-decl-stubs.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/math-vector.h \
+  /usr/include/bits/mathcalls-helper-functions.h \
+  /usr/include/bits/mathcalls-narrow.h \
+  /usr/include/bits/mathcalls.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/endian.h \
   /usr/include/features-time64.h \
   /usr/include/features.h \
@@ -156,9 +156,17 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o: 
   /usr/include/sys/cdefs.h \
   /usr/include/sys/select.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.o: _deps/ftxui-src/src/ftxui/component/button.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -188,70 +196,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.o: _de
   _deps/ftxui-src/include/ftxui/screen/string.hpp \
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -394,6 +338,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.o: _de
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -413,11 +421,21 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.o: _de
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o: _deps/ftxui-src/src/ftxui/component/catch_event.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -444,70 +462,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o
   _deps/ftxui-src/include/ftxui/screen/string.hpp \
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
   /usr/include/c++/14.2.1/backward/binders.h \
@@ -630,6 +584,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -649,11 +667,21 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o: _deps/ftxui-src/src/ftxui/component/checkbox.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -680,70 +708,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o: _
   _deps/ftxui-src/include/ftxui/screen/string.hpp \
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
   /usr/include/c++/14.2.1/backward/binders.h \
@@ -866,6 +830,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o: _
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -885,11 +913,21 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o: _
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o: _deps/ftxui-src/src/ftxui/component/collapsible.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -914,70 +952,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o
   _deps/ftxui-src/include/ftxui/screen/string.hpp \
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
   /usr/include/c++/14.2.1/backward/binders.h \
@@ -1100,6 +1074,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -1119,11 +1157,21 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component.cpp.o: _deps/ftxui-src/src/ftxui/component/component.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -1153,71 +1201,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component.cpp.o: 
   _deps/ftxui-src/include/ftxui/screen/string.hpp \
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/assert.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -1371,57 +1354,11 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component.cpp.o: 
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/gnu/stubs-64.h \
-  /usr/include/gnu/stubs.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/sys/cdefs.h \
-  /usr/include/sys/select.h \
-  /usr/include/sys/single_threaded.h \
-  /usr/include/sys/types.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
-
-_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o: _deps/ftxui-src/src/ftxui/component/component_options.cpp \
-  _deps/ftxui-src/include/ftxui/component/animation.hpp \
-  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
-  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
-  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
-  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
-  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
-  _deps/ftxui-src/include/ftxui/dom/node.hpp \
-  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  _deps/ftxui-src/include/ftxui/screen/box.hpp \
-  _deps/ftxui-src/include/ftxui/screen/color.hpp \
-  _deps/ftxui-src/include/ftxui/screen/image.hpp \
-  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  _deps/ftxui-src/include/ftxui/screen/string.hpp \
-  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/asm/errno.h \
+  /usr/include/assert.h \
   /usr/include/bits/atomic_wide_counter.h \
   /usr/include/bits/byteswap.h \
   /usr/include/bits/cpu-set.h \
@@ -1482,6 +1419,63 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component_options
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
+
+_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o: _deps/ftxui-src/src/ftxui/component/component_options.cpp \
+  _deps/ftxui-src/include/ftxui/component/animation.hpp \
+  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
+  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  _deps/ftxui-src/include/ftxui/dom/node.hpp \
+  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  _deps/ftxui-src/include/ftxui/screen/box.hpp \
+  _deps/ftxui-src/include/ftxui/screen/color.hpp \
+  _deps/ftxui-src/include/ftxui/screen/image.hpp \
+  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  _deps/ftxui-src/include/ftxui/screen/string.hpp \
+  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
   /usr/include/c++/14.2.1/backward/binders.h \
@@ -1604,56 +1598,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component_options
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/gnu/stubs-64.h \
-  /usr/include/gnu/stubs.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/sys/cdefs.h \
-  /usr/include/sys/select.h \
-  /usr/include/sys/single_threaded.h \
-  /usr/include/sys/types.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
-
-_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.o: _deps/ftxui-src/src/ftxui/component/container.cpp \
-  _deps/ftxui-src/include/ftxui/component/animation.hpp \
-  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/component.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
-  _deps/ftxui-src/include/ftxui/component/event.hpp \
-  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
-  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
-  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
-  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
-  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
-  _deps/ftxui-src/include/ftxui/dom/node.hpp \
-  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  _deps/ftxui-src/include/ftxui/screen/box.hpp \
-  _deps/ftxui-src/include/ftxui/screen/color.hpp \
-  _deps/ftxui-src/include/ftxui/screen/image.hpp \
-  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  _deps/ftxui-src/include/ftxui/screen/string.hpp \
-  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -1718,6 +1662,66 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.o: 
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
+
+_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.o: _deps/ftxui-src/src/ftxui/component/container.cpp \
+  _deps/ftxui-src/include/ftxui/component/animation.hpp \
+  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/component.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
+  _deps/ftxui-src/include/ftxui/component/event.hpp \
+  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
+  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  _deps/ftxui-src/include/ftxui/dom/node.hpp \
+  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  _deps/ftxui-src/include/ftxui/screen/box.hpp \
+  _deps/ftxui-src/include/ftxui/screen/color.hpp \
+  _deps/ftxui-src/include/ftxui/screen/image.hpp \
+  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  _deps/ftxui-src/include/ftxui/screen/string.hpp \
+  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
@@ -1846,57 +1850,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.o: 
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/gnu/stubs-64.h \
-  /usr/include/gnu/stubs.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/sys/cdefs.h \
-  /usr/include/sys/select.h \
-  /usr/include/sys/single_threaded.h \
-  /usr/include/sys/types.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
-
-_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o: _deps/ftxui-src/src/ftxui/component/dropdown.cpp \
-  _deps/ftxui-src/include/ftxui/component/animation.hpp \
-  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/component.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
-  _deps/ftxui-src/include/ftxui/component/event.hpp \
-  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
-  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
-  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
-  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
-  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
-  _deps/ftxui-src/include/ftxui/dom/node.hpp \
-  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  _deps/ftxui-src/include/ftxui/screen/box.hpp \
-  _deps/ftxui-src/include/ftxui/screen/color.hpp \
-  _deps/ftxui-src/include/ftxui/screen/image.hpp \
-  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  _deps/ftxui-src/include/ftxui/screen/string.hpp \
-  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  _deps/ftxui-src/src/ftxui/screen/util.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -1961,6 +1914,67 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o: _
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
+
+_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o: _deps/ftxui-src/src/ftxui/component/dropdown.cpp \
+  _deps/ftxui-src/include/ftxui/component/animation.hpp \
+  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/component.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
+  _deps/ftxui-src/include/ftxui/component/event.hpp \
+  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
+  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  _deps/ftxui-src/include/ftxui/dom/node.hpp \
+  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  _deps/ftxui-src/include/ftxui/screen/box.hpp \
+  _deps/ftxui-src/include/ftxui/screen/color.hpp \
+  _deps/ftxui-src/include/ftxui/screen/image.hpp \
+  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  _deps/ftxui-src/include/ftxui/screen/string.hpp \
+  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  _deps/ftxui-src/include/ftxui/util/ref.hpp \
+  _deps/ftxui-src/src/ftxui/screen/util.hpp \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
   /usr/include/c++/14.2.1/backward/binders.h \
@@ -2083,6 +2097,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o: _
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -2102,68 +2180,26 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o: _
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.o: _deps/ftxui-src/src/ftxui/component/event.cpp \
   _deps/ftxui-src/include/ftxui/component/event.hpp \
   _deps/ftxui-src/include/ftxui/component/mouse.hpp \
   _deps/ftxui-src/include/ftxui/screen/string.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/backward/binders.h \
   /usr/include/c++/14.2.1/bit \
   /usr/include/c++/14.2.1/bits/alloc_traits.h \
@@ -2248,6 +2284,58 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.o: _dep
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -2263,9 +2351,18 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.o: _dep
   /usr/include/sys/cdefs.h \
   /usr/include/sys/select.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o: _deps/ftxui-src/src/ftxui/component/hoverable.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -2295,70 +2392,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o: 
   _deps/ftxui-src/include/ftxui/screen/string.hpp \
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -2501,61 +2534,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o: 
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/gnu/stubs-64.h \
-  /usr/include/gnu/stubs.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/sys/cdefs.h \
-  /usr/include/sys/select.h \
-  /usr/include/sys/single_threaded.h \
-  /usr/include/sys/types.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
-
-_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o: _deps/ftxui-src/src/ftxui/component/input.cpp \
-  _deps/ftxui-src/include/ftxui/component/animation.hpp \
-  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/component.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
-  _deps/ftxui-src/include/ftxui/component/event.hpp \
-  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/receiver.hpp \
-  _deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
-  _deps/ftxui-src/include/ftxui/component/task.hpp \
-  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
-  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
-  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
-  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
-  _deps/ftxui-src/include/ftxui/dom/node.hpp \
-  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  _deps/ftxui-src/include/ftxui/screen/box.hpp \
-  _deps/ftxui-src/include/ftxui/screen/color.hpp \
-  _deps/ftxui-src/include/ftxui/screen/image.hpp \
-  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  _deps/ftxui-src/include/ftxui/screen/string.hpp \
-  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  _deps/ftxui-src/src/ftxui/screen/string_internal.hpp \
-  _deps/ftxui-src/src/ftxui/screen/util.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -2619,8 +2597,72 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o: _dep
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
-  /usr/include/bits/wctype-wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
+
+_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o: _deps/ftxui-src/src/ftxui/component/input.cpp \
+  _deps/ftxui-src/include/ftxui/component/animation.hpp \
+  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/component.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
+  _deps/ftxui-src/include/ftxui/component/event.hpp \
+  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/receiver.hpp \
+  _deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
+  _deps/ftxui-src/include/ftxui/component/task.hpp \
+  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  _deps/ftxui-src/include/ftxui/dom/node.hpp \
+  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  _deps/ftxui-src/include/ftxui/screen/box.hpp \
+  _deps/ftxui-src/include/ftxui/screen/color.hpp \
+  _deps/ftxui-src/include/ftxui/screen/image.hpp \
+  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  _deps/ftxui-src/include/ftxui/screen/string.hpp \
+  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  _deps/ftxui-src/include/ftxui/util/ref.hpp \
+  _deps/ftxui-src/src/ftxui/screen/string_internal.hpp \
+  _deps/ftxui-src/src/ftxui/screen/util.hpp \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -2785,59 +2827,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o: _dep
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/gnu/stubs-64.h \
-  /usr/include/gnu/stubs.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/sys/cdefs.h \
-  /usr/include/sys/select.h \
-  /usr/include/sys/single_threaded.h \
-  /usr/include/sys/types.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/include/wctype.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
-
-_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o: _deps/ftxui-src/src/ftxui/component/loop.cpp \
-  _deps/ftxui-src/include/ftxui/component/animation.hpp \
-  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
-  _deps/ftxui-src/include/ftxui/component/event.hpp \
-  _deps/ftxui-src/include/ftxui/component/loop.hpp \
-  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/receiver.hpp \
-  _deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
-  _deps/ftxui-src/include/ftxui/component/task.hpp \
-  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
-  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
-  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
-  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
-  _deps/ftxui-src/include/ftxui/dom/node.hpp \
-  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  _deps/ftxui-src/include/ftxui/screen/box.hpp \
-  _deps/ftxui-src/include/ftxui/screen/color.hpp \
-  _deps/ftxui-src/include/ftxui/screen/image.hpp \
-  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  _deps/ftxui-src/include/ftxui/screen/string.hpp \
-  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -2901,7 +2890,71 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o: _deps
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
+  /usr/include/bits/wctype-wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/include/wctype.h \
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
+
+_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o: _deps/ftxui-src/src/ftxui/component/loop.cpp \
+  _deps/ftxui-src/include/ftxui/component/animation.hpp \
+  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
+  _deps/ftxui-src/include/ftxui/component/event.hpp \
+  _deps/ftxui-src/include/ftxui/component/loop.hpp \
+  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/receiver.hpp \
+  _deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
+  _deps/ftxui-src/include/ftxui/component/task.hpp \
+  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  _deps/ftxui-src/include/ftxui/dom/node.hpp \
+  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  _deps/ftxui-src/include/ftxui/screen/box.hpp \
+  _deps/ftxui-src/include/ftxui/screen/color.hpp \
+  _deps/ftxui-src/include/ftxui/screen/image.hpp \
+  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  _deps/ftxui-src/include/ftxui/screen/string.hpp \
+  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -3044,56 +3097,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o: _deps
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/gnu/stubs-64.h \
-  /usr/include/gnu/stubs.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/sys/cdefs.h \
-  /usr/include/sys/select.h \
-  /usr/include/sys/single_threaded.h \
-  /usr/include/sys/types.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
-
-_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o: _deps/ftxui-src/src/ftxui/component/maybe.cpp \
-  _deps/ftxui-src/include/ftxui/component/animation.hpp \
-  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/component.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
-  _deps/ftxui-src/include/ftxui/component/event.hpp \
-  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
-  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
-  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
-  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
-  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
-  _deps/ftxui-src/include/ftxui/dom/node.hpp \
-  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  _deps/ftxui-src/include/ftxui/screen/box.hpp \
-  _deps/ftxui-src/include/ftxui/screen/color.hpp \
-  _deps/ftxui-src/include/ftxui/screen/image.hpp \
-  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  _deps/ftxui-src/include/ftxui/screen/string.hpp \
-  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -3158,6 +3161,66 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o: _dep
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
+
+_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o: _deps/ftxui-src/src/ftxui/component/maybe.cpp \
+  _deps/ftxui-src/include/ftxui/component/animation.hpp \
+  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/component.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
+  _deps/ftxui-src/include/ftxui/component/event.hpp \
+  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
+  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  _deps/ftxui-src/include/ftxui/dom/node.hpp \
+  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  _deps/ftxui-src/include/ftxui/screen/box.hpp \
+  _deps/ftxui-src/include/ftxui/screen/color.hpp \
+  _deps/ftxui-src/include/ftxui/screen/image.hpp \
+  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  _deps/ftxui-src/include/ftxui/screen/string.hpp \
+  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
   /usr/include/c++/14.2.1/backward/binders.h \
@@ -3280,6 +3343,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o: _dep
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -3299,11 +3426,21 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o: _dep
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o: _deps/ftxui-src/src/ftxui/component/menu.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -3334,70 +3471,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o: _deps
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
   _deps/ftxui-src/src/ftxui/screen/util.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -3540,56 +3613,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o: _deps
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/gnu/stubs-64.h \
-  /usr/include/gnu/stubs.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/sys/cdefs.h \
-  /usr/include/sys/select.h \
-  /usr/include/sys/single_threaded.h \
-  /usr/include/sys/types.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
-
-_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o: _deps/ftxui-src/src/ftxui/component/modal.cpp \
-  _deps/ftxui-src/include/ftxui/component/animation.hpp \
-  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/component.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
-  _deps/ftxui-src/include/ftxui/component/event.hpp \
-  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
-  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
-  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
-  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
-  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
-  _deps/ftxui-src/include/ftxui/dom/node.hpp \
-  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  _deps/ftxui-src/include/ftxui/screen/box.hpp \
-  _deps/ftxui-src/include/ftxui/screen/color.hpp \
-  _deps/ftxui-src/include/ftxui/screen/image.hpp \
-  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  _deps/ftxui-src/include/ftxui/screen/string.hpp \
-  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -3654,6 +3677,66 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o: _dep
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
+
+_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o: _deps/ftxui-src/src/ftxui/component/modal.cpp \
+  _deps/ftxui-src/include/ftxui/component/animation.hpp \
+  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/component.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
+  _deps/ftxui-src/include/ftxui/component/event.hpp \
+  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
+  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  _deps/ftxui-src/include/ftxui/dom/node.hpp \
+  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  _deps/ftxui-src/include/ftxui/screen/box.hpp \
+  _deps/ftxui-src/include/ftxui/screen/color.hpp \
+  _deps/ftxui-src/include/ftxui/screen/image.hpp \
+  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  _deps/ftxui-src/include/ftxui/screen/string.hpp \
+  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
   /usr/include/c++/14.2.1/backward/binders.h \
@@ -3776,6 +3859,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o: _dep
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -3795,11 +3942,21 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o: _dep
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o: _deps/ftxui-src/src/ftxui/component/radiobox.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -3830,70 +3987,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o: _
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
   _deps/ftxui-src/src/ftxui/screen/util.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -4036,6 +4129,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o: _
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -4055,11 +4212,21 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o: _
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o: _deps/ftxui-src/src/ftxui/component/renderer.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -4086,70 +4253,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o: _
   _deps/ftxui-src/include/ftxui/screen/string.hpp \
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
   /usr/include/c++/14.2.1/backward/binders.h \
@@ -4272,6 +4375,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o: _
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -4291,11 +4458,21 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o: _
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o: _deps/ftxui-src/src/ftxui/component/resizable_split.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -4322,70 +4499,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.c
   _deps/ftxui-src/include/ftxui/screen/string.hpp \
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
   /usr/include/c++/14.2.1/backward/binders.h \
@@ -4508,6 +4621,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.c
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -4527,11 +4704,21 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.c
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o: _deps/ftxui-src/src/ftxui/component/screen_interactive.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -4561,107 +4748,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/screen_interactiv
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
   _deps/ftxui-src/src/ftxui/component/terminal_input_parser.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/confname.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/environments.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/getopt_core.h \
-  /usr/include/bits/getopt_posix.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/posix_opt.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/sigaction.h \
-  /usr/include/bits/sigcontext.h \
-  /usr/include/bits/sigevent-consts.h \
-  /usr/include/bits/siginfo-arch.h \
-  /usr/include/bits/siginfo-consts-arch.h \
-  /usr/include/bits/siginfo-consts.h \
-  /usr/include/bits/signal_ext.h \
-  /usr/include/bits/signum-arch.h \
-  /usr/include/bits/signum-generic.h \
-  /usr/include/bits/sigstack.h \
-  /usr/include/bits/sigstksz.h \
-  /usr/include/bits/sigthread.h \
-  /usr/include/bits/ss_flags.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/termios-baud.h \
-  /usr/include/bits/termios-c_cc.h \
-  /usr/include/bits/termios-c_cflag.h \
-  /usr/include/bits/termios-c_iflag.h \
-  /usr/include/bits/termios-c_lflag.h \
-  /usr/include/bits/termios-c_oflag.h \
-  /usr/include/bits/termios-misc.h \
-  /usr/include/bits/termios-struct.h \
-  /usr/include/bits/termios-tcflow.h \
-  /usr/include/bits/termios.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/__sigval_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sig_atomic_t.h \
-  /usr/include/bits/types/sigevent_t.h \
-  /usr/include/bits/types/siginfo_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/sigval_t.h \
-  /usr/include/bits/types/stack_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_sigstack.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/unistd_ext.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wctype-wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -4828,6 +4914,107 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/screen_interactiv
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/confname.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/environments.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/getopt_core.h \
+  /usr/include/bits/getopt_posix.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/posix_opt.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/sigaction.h \
+  /usr/include/bits/sigcontext.h \
+  /usr/include/bits/sigevent-consts.h \
+  /usr/include/bits/siginfo-arch.h \
+  /usr/include/bits/siginfo-consts-arch.h \
+  /usr/include/bits/siginfo-consts.h \
+  /usr/include/bits/signal_ext.h \
+  /usr/include/bits/signum-arch.h \
+  /usr/include/bits/signum-generic.h \
+  /usr/include/bits/sigstack.h \
+  /usr/include/bits/sigstksz.h \
+  /usr/include/bits/sigthread.h \
+  /usr/include/bits/ss_flags.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/termios-baud.h \
+  /usr/include/bits/termios-c_cc.h \
+  /usr/include/bits/termios-c_cflag.h \
+  /usr/include/bits/termios-c_iflag.h \
+  /usr/include/bits/termios-c_lflag.h \
+  /usr/include/bits/termios-c_oflag.h \
+  /usr/include/bits/termios-misc.h \
+  /usr/include/bits/termios-struct.h \
+  /usr/include/bits/termios-tcflow.h \
+  /usr/include/bits/termios.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/__sigval_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sig_atomic_t.h \
+  /usr/include/bits/types/sigevent_t.h \
+  /usr/include/bits/types/siginfo_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/sigval_t.h \
+  /usr/include/bits/types/stack_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_sigstack.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/unistd_ext.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wctype-wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -4851,14 +5038,24 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/screen_interactiv
   /usr/include/sys/ttydefaults.h \
   /usr/include/sys/types.h \
   /usr/include/sys/ucontext.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/termios.h \
   /usr/include/time.h \
   /usr/include/unistd.h \
   /usr/include/wchar.h \
   /usr/include/wctype.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o: _deps/ftxui-src/src/ftxui/component/slider.cpp \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
@@ -4889,70 +5086,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o: _de
   _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   _deps/ftxui-src/include/ftxui/util/ref.hpp \
   _deps/ftxui-src/src/ftxui/screen/util.hpp \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/asm/errno.h \
-  /usr/include/bits/atomic_wide_counter.h \
-  /usr/include/bits/byteswap.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
-  /usr/include/bits/errno.h \
-  /usr/include/bits/floatn-common.h \
-  /usr/include/bits/floatn.h \
-  /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/locale.h \
-  /usr/include/bits/long-double.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/bits/pthreadtypes-arch.h \
-  /usr/include/bits/pthreadtypes.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/select.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-least.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdlib-float.h \
-  /usr/include/bits/struct_mutex.h \
-  /usr/include/bits/struct_rwlock.h \
-  /usr/include/bits/thread-shared-types.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/time64.h \
-  /usr/include/bits/timesize.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types.h \
-  /usr/include/bits/types/FILE.h \
-  /usr/include/bits/types/__FILE.h \
-  /usr/include/bits/types/__fpos64_t.h \
-  /usr/include/bits/types/__fpos_t.h \
-  /usr/include/bits/types/__locale_t.h \
-  /usr/include/bits/types/__mbstate_t.h \
-  /usr/include/bits/types/__sigset_t.h \
-  /usr/include/bits/types/clock_t.h \
-  /usr/include/bits/types/clockid_t.h \
-  /usr/include/bits/types/cookie_io_functions_t.h \
-  /usr/include/bits/types/error_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/sigset_t.h \
-  /usr/include/bits/types/struct_FILE.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/types/struct_timespec.h \
-  /usr/include/bits/types/struct_timeval.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/time_t.h \
-  /usr/include/bits/types/timer_t.h \
-  /usr/include/bits/types/wint_t.h \
-  /usr/include/bits/typesizes.h \
-  /usr/include/bits/uintn-identity.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
-  /usr/include/bits/wchar.h \
-  /usr/include/bits/wordsize.h \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -5095,37 +5228,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o: _de
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/gnu/stubs-64.h \
-  /usr/include/gnu/stubs.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/sys/cdefs.h \
-  /usr/include/sys/select.h \
-  /usr/include/sys/single_threaded.h \
-  /usr/include/sys/types.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
-
-_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o: _deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp \
-  _deps/ftxui-src/include/ftxui/component/event.hpp \
-  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/receiver.hpp \
-  _deps/ftxui-src/include/ftxui/component/task.hpp \
-  _deps/ftxui-src/src/ftxui/component/terminal_input_parser.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -5190,6 +5292,47 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
+
+_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o: _deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp \
+  _deps/ftxui-src/include/ftxui/component/event.hpp \
+  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/receiver.hpp \
+  _deps/ftxui-src/include/ftxui/component/task.hpp \
+  _deps/ftxui-src/src/ftxui/component/terminal_input_parser.hpp \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -5331,54 +5474,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/gnu/stubs-64.h \
-  /usr/include/gnu/stubs.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/sys/cdefs.h \
-  /usr/include/sys/select.h \
-  /usr/include/sys/single_threaded.h \
-  /usr/include/sys/types.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
-
-_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.o: _deps/ftxui-src/src/ftxui/component/util.cpp \
-  _deps/ftxui-src/include/ftxui/component/animation.hpp \
-  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/component.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
-  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
-  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
-  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
-  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
-  _deps/ftxui-src/include/ftxui/dom/node.hpp \
-  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  _deps/ftxui-src/include/ftxui/screen/box.hpp \
-  _deps/ftxui-src/include/ftxui/screen/color.hpp \
-  _deps/ftxui-src/include/ftxui/screen/image.hpp \
-  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  _deps/ftxui-src/include/ftxui/screen/string.hpp \
-  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -5443,6 +5538,64 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.o: _deps
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
+
+_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.o: _deps/ftxui-src/src/ftxui/component/util.cpp \
+  _deps/ftxui-src/include/ftxui/component/animation.hpp \
+  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/component.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
+  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  _deps/ftxui-src/include/ftxui/dom/node.hpp \
+  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  _deps/ftxui-src/include/ftxui/screen/box.hpp \
+  _deps/ftxui-src/include/ftxui/screen/color.hpp \
+  _deps/ftxui-src/include/ftxui/screen/image.hpp \
+  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  _deps/ftxui-src/include/ftxui/screen/string.hpp \
+  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  _deps/ftxui-src/include/ftxui/util/ref.hpp \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/backward/auto_ptr.h \
   /usr/include/c++/14.2.1/backward/binders.h \
@@ -5565,60 +5718,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.o: _deps
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/gnu/stubs-64.h \
-  /usr/include/gnu/stubs.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/sys/cdefs.h \
-  /usr/include/sys/select.h \
-  /usr/include/sys/single_threaded.h \
-  /usr/include/sys/types.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
-
-_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.o: _deps/ftxui-src/src/ftxui/component/window.cpp \
-  _deps/ftxui-src/include/ftxui/component/animation.hpp \
-  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/component.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
-  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
-  _deps/ftxui-src/include/ftxui/component/event.hpp \
-  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
-  _deps/ftxui-src/include/ftxui/component/receiver.hpp \
-  _deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
-  _deps/ftxui-src/include/ftxui/component/task.hpp \
-  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
-  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
-  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
-  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
-  _deps/ftxui-src/include/ftxui/dom/node.hpp \
-  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  _deps/ftxui-src/include/ftxui/screen/box.hpp \
-  _deps/ftxui-src/include/ftxui/screen/color.hpp \
-  _deps/ftxui-src/include/ftxui/screen/image.hpp \
-  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  _deps/ftxui-src/include/ftxui/screen/string.hpp \
-  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  _deps/ftxui-src/include/ftxui/util/ref.hpp \
-  _deps/ftxui-src/src/ftxui/dom/node_decorator.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -5683,6 +5782,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.o: _de
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/sys/cdefs.h \
+  /usr/include/sys/select.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
+
+_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.o: _deps/ftxui-src/src/ftxui/component/window.cpp \
+  _deps/ftxui-src/include/ftxui/component/animation.hpp \
+  _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/component.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_base.hpp \
+  _deps/ftxui-src/include/ftxui/component/component_options.hpp \
+  _deps/ftxui-src/include/ftxui/component/event.hpp \
+  _deps/ftxui-src/include/ftxui/component/mouse.hpp \
+  _deps/ftxui-src/include/ftxui/component/receiver.hpp \
+  _deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
+  _deps/ftxui-src/include/ftxui/component/task.hpp \
+  _deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  _deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+  _deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  _deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  _deps/ftxui-src/include/ftxui/dom/node.hpp \
+  _deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  _deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  _deps/ftxui-src/include/ftxui/screen/box.hpp \
+  _deps/ftxui-src/include/ftxui/screen/color.hpp \
+  _deps/ftxui-src/include/ftxui/screen/image.hpp \
+  _deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  _deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  _deps/ftxui-src/include/ftxui/screen/string.hpp \
+  _deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  _deps/ftxui-src/include/ftxui/util/ref.hpp \
+  _deps/ftxui-src/src/ftxui/dom/node_decorator.hpp \
   /usr/include/c++/14.2.1/algorithm \
   /usr/include/c++/14.2.1/array \
   /usr/include/c++/14.2.1/atomic \
@@ -5825,6 +5988,70 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.o: _de
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
   /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/asm/errno.h \
+  /usr/include/bits/atomic_wide_counter.h \
+  /usr/include/bits/byteswap.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/bits/errno.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/bits/pthreadtypes-arch.h \
+  /usr/include/bits/pthreadtypes.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/select.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-least.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/stdlib-float.h \
+  /usr/include/bits/struct_mutex.h \
+  /usr/include/bits/struct_rwlock.h \
+  /usr/include/bits/thread-shared-types.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/__sigset_t.h \
+  /usr/include/bits/types/clock_t.h \
+  /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
+  /usr/include/bits/types/error_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/sigset_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/types/struct_timespec.h \
+  /usr/include/bits/types/struct_timeval.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/time_t.h \
+  /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/types/wint_t.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/uintn-identity.h \
+  /usr/include/bits/waitflags.h \
+  /usr/include/bits/waitstatus.h \
+  /usr/include/bits/wchar.h \
+  /usr/include/bits/wordsize.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -5844,11 +6071,21 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.o: _de
   /usr/include/sys/select.h \
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
+  /usr/include/tbb/tbb.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/clang/18/include/stdarg.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/stdint.h
 
 
 _deps/ftxui-src/src/ftxui/component/window.cpp:
@@ -5860,8 +6097,6 @@ _deps/ftxui-src/src/ftxui/component/window.cpp:
 /usr/include/signal.h:
 
 /usr/include/linux/close_range.h:
-
-/usr/include/c++/14.2.1/bits/stl_stack.h:
 
 /usr/include/bits/types/struct_sigstack.h:
 
@@ -5899,6 +6134,8 @@ _deps/ftxui-src/src/ftxui/component/window.cpp:
 
 /usr/include/bits/confname.h:
 
+/usr/include/c++/14.2.1/bits/stl_stack.h:
+
 _deps/ftxui-src/src/ftxui/component/terminal_input_parser.hpp:
 
 _deps/ftxui-src/src/ftxui/component/screen_interactive.cpp:
@@ -5914,6 +6151,8 @@ _deps/ftxui-src/src/ftxui/component/maybe.cpp:
 _deps/ftxui-src/include/ftxui/component/loop.hpp:
 
 _deps/ftxui-src/src/ftxui/component/loop.cpp:
+
+/usr/include/bits/wctype-wchar.h:
 
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h:
 
@@ -5931,8 +6170,6 @@ _deps/ftxui-src/src/ftxui/component/loop.cpp:
 
 /usr/include/c++/14.2.1/bits/basic_ios.h:
 
-/usr/include/bits/wctype-wchar.h:
-
 _deps/ftxui-src/src/ftxui/screen/string_internal.hpp:
 
 /usr/include/c++/14.2.1/map:
@@ -5943,13 +6180,15 @@ _deps/ftxui-src/src/ftxui/screen/string_internal.hpp:
 
 /usr/include/c++/14.2.1/bits/stl_map.h:
 
-_deps/ftxui-src/src/ftxui/component/event.cpp:
-
 _deps/ftxui-src/src/ftxui/screen/util.hpp:
 
 _deps/ftxui-src/src/ftxui/component/dropdown.cpp:
 
 _deps/ftxui-src/src/ftxui/component/container.cpp:
+
+/usr/include/c++/14.2.1/istream:
+
+/usr/include/assert.h:
 
 /usr/include/c++/14.2.1/streambuf:
 
@@ -5965,61 +6204,151 @@ _deps/ftxui-src/src/ftxui/component/container.cpp:
 
 /usr/include/c++/14.2.1/bits/locale_classes.h:
 
-/usr/include/c++/14.2.1/istream:
-
-/usr/include/assert.h:
-
 _deps/ftxui-src/src/ftxui/component/component.cpp:
 
 _deps/ftxui-src/src/ftxui/component/checkbox.cpp:
 
 _deps/ftxui-src/src/ftxui/component/catch_event.cpp:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h:
+/usr/lib/clang/18/include/sanitizer/tsan_interface.h:
+
+/usr/lib/clang/18/include/__stdarg___gnuc_va_list.h:
 
 /usr/include/sys/single_threaded.h:
 
 /usr/include/ctype.h:
 
+/usr/include/bits/types/wint_t.h:
+
+/usr/include/bits/environments.h:
+
+/usr/include/bits/types/struct_FILE.h:
+
+/usr/include/bits/signal_ext.h:
+
+/usr/include/bits/types/mbstate_t.h:
+
+/usr/include/bits/types/error_t.h:
+
+/usr/include/bits/types/cookie_io_functions_t.h:
+
+/usr/include/bits/types/__mbstate_t.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/locale.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/bits/cpu-set.h:
+
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h:
 
-_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp:
+/usr/include/bits/time64.h:
 
-/usr/include/bits/getopt_posix.h:
+/usr/include/bits/stdlib-float.h:
 
-/usr/include/errno.h:
+/usr/include/c++/14.2.1/bits/predefined_ops.h:
 
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++locale.h:
+/usr/include/c++/14.2.1/bits/locale_classes.tcc:
 
-/usr/include/c++/14.2.1/bits/streambuf.tcc:
+/usr/include/bits/struct_mutex.h:
 
-/usr/include/c++/14.2.1/variant:
+/usr/include/c++/14.2.1/iostream:
 
-/usr/include/c++/14.2.1/string_view:
+/usr/include/asm/errno.h:
 
-/usr/include/pthread.h:
+/usr/include/bits/stdint-uintn.h:
 
-/usr/include/c++/14.2.1/string:
-
-/usr/include/c++/14.2.1/queue:
-
-/usr/include/c++/14.2.1/pstl/glue_memory_defs.h:
-
-/usr/include/c++/14.2.1/bits/locale_facets.h:
-
-/usr/include/c++/14.2.1/pstl/execution_defs.h:
-
-/usr/include/c++/14.2.1/optional:
-
-/usr/include/c++/14.2.1/memory:
-
-/usr/include/c++/14.2.1/tr1/exp_integral.tcc:
+/usr/include/c++/14.2.1/unordered_map:
 
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h:
 
 /usr/include/bits/stdint-least.h:
 
+/usr/include/c++/14.2.1/tr1/exp_integral.tcc:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/types/clock_t.h:
+
+/usr/include/bits/mathcalls-narrow.h:
+
+/usr/include/c++/14.2.1/ctime:
+
+/usr/include/bits/types/struct_itimerspec.h:
+
+/usr/include/c++/14.2.1/bits/basic_ios.tcc:
+
+_deps/ftxui-src/include/ftxui/screen/screen.hpp:
+
+/usr/include/bits/mathcalls-helper-functions.h:
+
+/usr/include/bits/math-vector.h:
+
+/usr/include/c++/14.2.1/bits/stl_function.h:
+
+/usr/include/bits/libm-simd-decl-stubs.h:
+
+/usr/include/wctype.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/fp-fast.h:
+
+/usr/include/c++/14.2.1/bits/atomic_lockfree_defines.h:
+
+/usr/include/c++/14.2.1/bits/stl_tempbuf.h:
+
+/usr/include/c++/14.2.1/csignal:
+
+/usr/include/c++/14.2.1/bits/stream_iterator.h:
+
+/usr/include/c++/14.2.1/utility:
+
+/usr/include/bits/termios-baud.h:
+
+/usr/include/bits/types/__FILE.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h:
+
+/usr/include/c++/14.2.1/bits/parse_numbers.h:
+
+/usr/include/c++/14.2.1/bits/shared_ptr_base.h:
+
+/usr/include/c++/14.2.1/system_error:
+
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/error_constants.h:
+
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h:
+
+/usr/include/bits/floatn-common.h:
+
+/usr/include/c++/14.2.1/vector:
+
+/usr/lib/clang/18/include/__stddef_size_t.h:
+
+/usr/include/bits/thread-shared-types.h:
+
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h:
+
+/usr/include/c++/14.2.1/tr1/riemann_zeta.tcc:
+
+/usr/include/c++/14.2.1/tr1/modified_bessel_func.tcc:
+
+/usr/include/bits/endianness.h:
+
+/usr/include/c++/14.2.1/typeinfo:
+
 /usr/include/c++/14.2.1/ratio:
+
+/usr/lib/clang/18/include/__stddef_offsetof.h:
 
 /usr/include/c++/14.2.1/pstl/pstl_config.h:
 
@@ -6027,107 +6356,21 @@ _deps/ftxui-src/include/ftxui/component/receiver.hpp:
 
 /usr/include/c++/14.2.1/new:
 
-/usr/include/bits/types/error_t.h:
-
-/usr/include/bits/types/wint_t.h:
-
 /usr/include/c++/14.2.1/bits/deque.tcc:
 
 /usr/include/c++/14.2.1/bits/std_thread.h:
-
-/usr/include/bits/sigevent-consts.h:
-
-/usr/include/c++/14.2.1/functional:
-
-/usr/include/c++/14.2.1/cstdint:
-
-_deps/ftxui-src/src/ftxui/component/collapsible.cpp:
-
-/usr/include/c++/14.2.1/bits/invoke.h:
-
-/usr/include/c++/14.2.1/compare:
-
-/usr/include/c++/14.2.1/bits/stl_algo.h:
-
-_deps/ftxui-src/src/ftxui/component/menu.cpp:
-
-/usr/include/c++/14.2.1/cstddef:
-
-/usr/include/c++/14.2.1/concepts:
-
-/usr/include/bits/endian.h:
-
-/usr/include/c++/14.2.1/bits/unordered_map.h:
-
-_deps/ftxui-src/include/ftxui/component/component.hpp:
-
-_deps/ftxui-src/include/ftxui/dom/canvas.hpp:
-
-/usr/include/bits/types/cookie_io_functions_t.h:
-
-/usr/include/c++/14.2.1/bits/stl_iterator_base_funcs.h:
-
-/usr/include/bits/pthreadtypes.h:
-
-/usr/include/c++/14.2.1/bits/basic_string.h:
-
-/usr/include/c++/14.2.1/tr1/beta_function.tcc:
-
-/usr/include/c++/14.2.1/ext/numeric_traits.h:
-
-/usr/include/c++/14.2.1/bits/std_mutex.h:
-
-/usr/include/c++/14.2.1/bits/stl_iterator.h:
 
 _deps/ftxui-src/src/ftxui/dom/node_decorator.hpp:
 
 /usr/include/bits/iscanonical.h:
 
-/usr/include/c++/14.2.1/ext/type_traits.h:
+/usr/include/c++/14.2.1/bits/stl_iterator.h:
 
-/usr/include/c++/14.2.1/bits/cxxabi_forced.h:
+/usr/include/c++/14.2.1/initializer_list:
 
-/usr/include/bits/types/time_t.h:
+/usr/include/bits/sigevent-consts.h:
 
-/usr/include/c++/14.2.1/bits/requires_hosted.h:
-
-/usr/include/c++/14.2.1/bits/memoryfwd.h:
-
-/usr/include/c++/14.2.1/bits/vector.tcc:
-
-/usr/include/c++/14.2.1/bit:
-
-/usr/include/c++/14.2.1/ios:
-
-/usr/include/math.h:
-
-/usr/include/c++/14.2.1/bits/ptr_traits.h:
-
-/usr/include/c++/14.2.1/bits/predefined_ops.h:
-
-/usr/include/c++/14.2.1/debug/assertions.h:
-
-/usr/include/bits/time.h:
-
-/usr/include/bits/stdio_lim.h:
-
-/usr/include/bits/types/__mbstate_t.h:
-
-/usr/include/c++/14.2.1/bits/parse_numbers.h:
-
-/usr/include/c++/14.2.1/bits/shared_ptr_base.h:
-
-/usr/include/c++/14.2.1/bits/new_allocator.h:
-
-/usr/include/c++/14.2.1/bits/node_handle.h:
-
-/usr/include/c++/14.2.1/bits/move.h:
-
-/usr/include/c++/14.2.1/bits/stl_iterator_base_types.h:
-
-/usr/include/bits/math-vector.h:
-
-/usr/include/c++/14.2.1/bits/stl_function.h:
+/usr/include/c++/14.2.1/functional:
 
 /usr/include/c++/14.2.1/bits/exception_defines.h:
 
@@ -6137,129 +6380,81 @@ _deps/ftxui-src/src/ftxui/dom/node_decorator.hpp:
 
 _deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp:
 
-/usr/include/c++/14.2.1/bits/enable_special_members.h:
+/usr/include/c++/14.2.1/bits/ptr_traits.h:
 
-/usr/include/sys/ucontext.h:
+/usr/include/bits/types/__locale_t.h:
 
-/usr/include/stdc-predef.h:
+/usr/include/c++/14.2.1/ext/alloc_traits.h:
 
-/usr/include/c++/14.2.1/bits/cpp_type_traits.h:
+/usr/include/c++/14.2.1/bits/functional_hash.h:
 
-/usr/include/c++/14.2.1/bits/memory_resource.h:
+/usr/include/c++/14.2.1/bits/refwrap.h:
 
-/usr/include/c++/14.2.1/atomic:
+/usr/include/c++/14.2.1/bits/stl_iterator_base_funcs.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h:
+/usr/include/bits/pthreadtypes.h:
 
-/usr/include/bits/termios-c_cflag.h:
+/usr/include/c++/14.2.1/bits/basic_string.h:
 
-_deps/ftxui-src/include/ftxui/screen/terminal.hpp:
+/usr/include/c++/14.2.1/tr1/poly_hermite.tcc:
 
-/usr/include/c++/14.2.1/bits/concept_check.h:
+/usr/include/c++/14.2.1/bits/stl_pair.h:
 
-/usr/include/c++/14.2.1/unordered_map:
+/usr/include/c++/14.2.1/bits/stl_algo.h:
 
-/usr/include/c++/14.2.1/bits/std_function.h:
+_deps/ftxui-src/src/ftxui/component/hoverable.cpp:
+
+/usr/include/bits/timesize.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/c++/14.2.1/concepts:
+
+/usr/include/c++/14.2.1/bits/node_handle.h:
+
+/usr/include/c++/14.2.1/bits/new_allocator.h:
+
+/usr/include/bits/libc-header-start.h:
+
+/usr/include/c++/14.2.1/ext/aligned_buffer.h:
+
+/usr/include/c++/14.2.1/bits/exception.h:
+
+_deps/ftxui-src/src/ftxui/component/input.cpp:
+
+/usr/include/bits/atomic_wide_counter.h:
+
+/usr/include/c++/14.2.1/bits/hashtable_policy.h:
+
+/usr/include/c++/14.2.1/bits/specfun.h:
+
+/usr/include/bits/types/time_t.h:
+
+/usr/include/bits/types.h:
 
 /usr/include/alloca.h:
 
-/usr/include/c++/14.2.1/bits/locale_classes.tcc:
+/usr/include/c++/14.2.1/bits/std_function.h:
 
-/usr/include/bits/struct_mutex.h:
+/usr/include/c++/14.2.1/bits/memoryfwd.h:
 
-_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp:
+/usr/include/c++/14.2.1/bits/requires_hosted.h:
 
-/usr/include/c++/14.2.1/ctime:
+/usr/include/c++/14.2.1/ios:
 
-/usr/include/bits/mathcalls-narrow.h:
+/usr/include/math.h:
 
-/usr/include/bits/pthreadtypes-arch.h:
+/usr/include/c++/14.2.1/bits/stl_iterator_base_types.h:
 
-/usr/include/bits/types/timer_t.h:
+/usr/include/c++/14.2.1/tr1/gamma.tcc:
 
-/usr/include/gnu/stubs.h:
-
-/usr/include/c++/14.2.1/bits/localefwd.h:
-
-/usr/include/bits/floatn-common.h:
-
-/usr/include/c++/14.2.1/vector:
-
-/usr/include/bits/long-double.h:
-
-/usr/include/bits/unistd_ext.h:
-
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
-
-/usr/include/c++/14.2.1/bits/uses_allocator.h:
+_deps/ftxui-src/src/ftxui/component/animation.cpp:
 
 /usr/include/c++/14.2.1/bits/stl_vector.h:
 
 /usr/include/bits/types/stack_t.h:
 
 _deps/ftxui-src/include/ftxui/component/captured_mouse.hpp:
-
-/usr/include/bits/fp-logb.h:
-
-/usr/include/c++/14.2.1/bits/erase_if.h:
-
-_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp:
-
-/usr/include/c++/14.2.1/ext/aligned_buffer.h:
-
-/usr/include/bits/libc-header-start.h:
-
-/usr/include/bits/floatn.h:
-
-/usr/include/c++/14.2.1/bits/cxxabi_init_exception.h:
-
-/usr/include/c++/14.2.1/bits/exception.h:
-
-/usr/include/c++/14.2.1/initializer_list:
-
-/usr/include/bits/environments.h:
-
-/usr/include/bits/types/struct_FILE.h:
-
-/usr/include/c++/14.2.1/bits/allocator.h:
-
-/usr/include/bits/sigstack.h:
-
-/usr/include/c++/14.2.1/condition_variable:
-
-/usr/include/bits/types/__sigset_t.h:
-
-/usr/include/bits/types/struct_itimerspec.h:
-
-/usr/include/c++/14.2.1/bits/basic_ios.tcc:
-
-_deps/ftxui-src/include/ftxui/screen/screen.hpp:
-
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
-
-/usr/include/c++/14.2.1/bits/version.h:
-
-_deps/ftxui-src/src/ftxui/component/animation.cpp:
-
-/usr/include/c++/14.2.1/tr1/gamma.tcc:
-
-/usr/include/bits/signal_ext.h:
-
-/usr/include/bits/types/mbstate_t.h:
-
-/usr/include/bits/waitflags.h:
-
-/usr/include/bits/libm-simd-decl-stubs.h:
-
-/usr/include/c++/14.2.1/typeinfo:
-
-/usr/include/bits/endianness.h:
-
-/usr/include/c++/14.2.1/csignal:
-
-/usr/include/c++/14.2.1/bits/stream_iterator.h:
-
-/usr/include/c++/14.2.1/utility:
 
 /usr/include/bits/termios-c_oflag.h:
 
@@ -6273,97 +6468,181 @@ _deps/ftxui-src/src/ftxui/component/animation.cpp:
 
 /usr/include/c++/14.2.1/bits/alloc_traits.h:
 
-/usr/include/bits/byteswap.h:
+/usr/include/c++/14.2.1/bits/move.h:
 
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h:
+/usr/include/pthread.h:
 
-/usr/include/bits/time64.h:
+/usr/include/c++/14.2.1/string:
 
-/usr/include/bits/stdlib-float.h:
+/usr/include/bits/flt-eval-method.h:
 
-/usr/include/c++/14.2.1/bits/hash_bytes.h:
+_deps/ftxui-src/include/ftxui/component/animation.hpp:
 
-/usr/include/c++/14.2.1/bits/stl_deque.h:
+/usr/include/bits/floatn.h:
 
-/usr/include/bits/mathcalls.h:
+/usr/include/c++/14.2.1/bits/cxxabi_init_exception.h:
 
-/usr/include/bits/types/clock_t.h:
+/usr/include/bits/types/__sigset_t.h:
+
+/usr/include/c++/14.2.1/bits/allocator.h:
+
+/usr/include/bits/sigstack.h:
+
+/usr/include/c++/14.2.1/condition_variable:
 
 /usr/include/bits/types/sig_atomic_t.h:
 
-/usr/include/c++/14.2.1/mutex:
-
 /usr/include/bits/types/__fpos_t.h:
 
-_deps/ftxui-src/include/ftxui/dom/requirement.hpp:
+/usr/include/c++/14.2.1/mutex:
 
-/usr/include/bits/types/sigset_t.h:
+_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp:
 
-/usr/include/asm-generic/errno.h:
+/usr/include/sys/types.h:
 
-/usr/include/c++/14.2.1/chrono:
+/usr/include/c++/14.2.1/exception:
 
-/usr/include/c++/14.2.1/bits/stl_pair.h:
+/usr/include/c++/14.2.1/bits/erase_if.h:
 
-/usr/include/c++/14.2.1/tr1/poly_hermite.tcc:
+/usr/include/c++/14.2.1/type_traits:
 
-/usr/include/c++/14.2.1/ext/alloc_traits.h:
+/usr/include/c++/14.2.1/array:
 
-/usr/include/c++/14.2.1/bits/functional_hash.h:
+_deps/ftxui-src/src/ftxui/component/collapsible.cpp:
 
-/usr/include/bits/types/__locale_t.h:
+/usr/include/c++/14.2.1/bits/invoke.h:
 
-/usr/include/wctype.h:
+/usr/include/c++/14.2.1/cstdint:
 
-/usr/include/sched.h:
+_deps/ftxui-src/src/ftxui/component/menu.cpp:
 
-/usr/include/bits/fp-fast.h:
+/usr/include/c++/14.2.1/cstddef:
 
-/usr/include/c++/14.2.1/bits/atomic_lockfree_defines.h:
+/usr/include/c++/14.2.1/bit:
 
-/usr/include/c++/14.2.1/bits/stl_tempbuf.h:
-
-_deps/ftxui-src/src/ftxui/component/hoverable.cpp:
-
-/usr/include/bits/timesize.h:
-
-/usr/include/bits/thread-shared-types.h:
-
-/usr/include/bits/errno.h:
-
-/usr/include/c++/14.2.1/bits/hashtable.h:
-
-/usr/include/bits/types.h:
-
-_deps/ftxui-src/src/ftxui/component/input.cpp:
-
-/usr/include/c++/14.2.1/bits/specfun.h:
-
-/usr/include/c++/14.2.1/bits/hashtable_policy.h:
-
-/usr/include/bits/atomic_wide_counter.h:
-
-/usr/include/bits/stdint-intn.h:
-
-/usr/include/bits/types/clockid_t.h:
-
-/usr/include/bits/types/locale_t.h:
+/usr/include/c++/14.2.1/bits/vector.tcc:
 
 /usr/include/c++/14.2.1/limits:
 
 /usr/include/c++/14.2.1/backward/binders.h:
 
-/usr/include/c++/14.2.1/bits/refwrap.h:
+/usr/include/bits/long-double.h:
 
-/usr/include/bits/types/struct_timespec.h:
+_deps/ftxui-src/include/ftxui/util/ref.hpp:
+
+/usr/include/c++/14.2.1/bits/functexcept.h:
+
+_deps/ftxui-src/include/ftxui/dom/elements.hpp:
+
+/usr/include/c++/14.2.1/bits/stl_deque.h:
+
+/usr/include/c++/14.2.1/bits/hash_bytes.h:
+
+/usr/include/c++/14.2.1/bits/enable_special_members.h:
+
+/usr/include/sys/ucontext.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/14.2.1/atomic:
+
+/usr/include/c++/14.2.1/bits/memory_resource.h:
+
+/usr/include/bits/termios-c_cflag.h:
+
+_deps/ftxui-src/include/ftxui/screen/terminal.hpp:
+
+/usr/include/c++/14.2.1/bits/concept_check.h:
+
+/usr/include/c++/14.2.1/bits/cpp_type_traits.h:
+
+/usr/include/bits/pthread_stack_min-dynamic.h:
+
+/usr/include/c++/14.2.1/tr1/ell_integral.tcc:
+
+_deps/ftxui-src/include/ftxui/dom/requirement.hpp:
+
+/usr/include/bits/timex.h:
+
+/usr/include/c++/14.2.1/tuple:
+
+/usr/include/c++/14.2.1/bits/chrono.h:
+
+/usr/include/c++/14.2.1/ext/concurrence.h:
+
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h:
+
+/usr/include/c++/14.2.1/bits/std_abs.h:
+
+/usr/include/c++/14.2.1/bits/stl_bvector.h:
+
+/usr/include/c++/14.2.1/ext/type_traits.h:
+
+/usr/include/c++/14.2.1/bits/cxxabi_forced.h:
+
+/usr/include/c++/14.2.1/tr1/beta_function.tcc:
+
+/usr/include/c++/14.2.1/ext/numeric_traits.h:
+
+/usr/include/c++/14.2.1/bits/std_mutex.h:
+
+/usr/include/bits/types/struct_sched_param.h:
+
+/usr/include/c++/14.2.1/bits/stl_uninitialized.h:
+
+/usr/include/bits/fp-logb.h:
+
+/usr/include/bits/unistd_ext.h:
+
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
+
+/usr/include/c++/14.2.1/bits/uses_allocator.h:
+
+/usr/include/unistd.h:
+
+/usr/include/c++/14.2.1/tr1/legendre_function.tcc:
+
+/usr/include/c++/14.2.1/compare:
+
+/usr/lib/clang/18/include/stdint.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/c++/14.2.1/debug/assertions.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/c++/14.2.1/chrono:
+
+/usr/include/c++/14.2.1/memory:
 
 /usr/include/c++/14.2.1/cmath:
 
-/usr/include/c++/14.2.1/iostream:
+/usr/include/c++/14.2.1/bits/unordered_map.h:
 
-/usr/include/bits/stdint-uintn.h:
+/usr/lib/clang/18/include/stdarg.h:
 
-/usr/include/asm/errno.h:
+_deps/ftxui-src/include/ftxui/component/component.hpp:
+
+_deps/ftxui-src/include/ftxui/dom/canvas.hpp:
+
+/usr/include/bits/pthreadtypes-arch.h:
+
+/usr/include/bits/stdint-intn.h:
+
+/usr/include/bits/types/clockid_t.h:
+
+/usr/include/c++/14.2.1/string_view:
+
+/usr/include/bits/types/locale_t.h:
+
+/usr/include/c++/14.2.1/bits/version.h:
+
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
+
+/usr/include/bits/types/sigset_t.h:
+
+/usr/include/bits/types/struct_timespec.h:
 
 /usr/include/c++/14.2.1/thread:
 
@@ -6371,9 +6650,17 @@ _deps/ftxui-src/src/ftxui/component/input.cpp:
 
 _deps/ftxui-src/include/ftxui/screen/pixel.hpp:
 
-/usr/include/bits/mathcalls-helper-functions.h:
+/usr/include/bits/types/__fpos64_t.h:
 
-_deps/ftxui-src/include/ftxui/dom/elements.hpp:
+/usr/include/c++/14.2.1/pstl/glue_algorithm_defs.h:
+
+/usr/include/bits/types/struct_tm.h:
+
+/usr/include/bits/types/timer_t.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/c++/14.2.1/bits/localefwd.h:
 
 /usr/include/bits/typesizes.h:
 
@@ -6381,61 +6668,19 @@ _deps/ftxui-src/include/ftxui/dom/elements.hpp:
 
 /usr/include/c++/14.2.1/bits/char_traits.h:
 
-/usr/include/stdio.h:
+/usr/include/bits/waitflags.h:
 
-/usr/include/bits/wordsize.h:
-
-/usr/include/c++/14.2.1/ext/string_conversions.h:
-
-/usr/include/bits/types/struct_tm.h:
-
-/usr/include/c++/14.2.1/bits/functexcept.h:
-
-_deps/ftxui-src/include/ftxui/util/ref.hpp:
-
-/usr/include/c++/14.2.1/bits/chrono.h:
-
-/usr/include/c++/14.2.1/ext/concurrence.h:
-
-/usr/include/unistd.h:
-
-/usr/include/c++/14.2.1/tr1/legendre_function.tcc:
-
-/usr/include/c++/14.2.1/tr1/modified_bessel_func.tcc:
-
-/usr/include/c++/14.2.1/tr1/riemann_zeta.tcc:
-
-/usr/include/c++/14.2.1/exception:
-
-/usr/include/sys/types.h:
+/usr/include/bits/types/struct___jmp_buf_tag.h:
 
 /usr/include/bits/waitstatus.h:
 
 /usr/include/bits/wchar.h:
 
-/usr/include/bits/types/struct___jmp_buf_tag.h:
+/usr/include/stdio.h:
 
-/usr/include/bits/timex.h:
+/usr/include/bits/wordsize.h:
 
-/usr/include/c++/14.2.1/tuple:
-
-/usr/include/c++/14.2.1/array:
-
-/usr/include/c++/14.2.1/type_traits:
-
-/usr/include/c++/14.2.1/system_error:
-
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/error_constants.h:
-
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h:
-
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h:
-
-/usr/include/c++/14.2.1/bits/stl_bvector.h:
-
-/usr/include/c++/14.2.1/bits/std_abs.h:
-
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h:
+/usr/include/c++/14.2.1/ext/string_conversions.h:
 
 /usr/include/c++/14.2.1/bits/ostream.tcc:
 
@@ -6461,23 +6706,27 @@ _deps/ftxui-src/src/ftxui/component/modal.cpp:
 
 /usr/include/time.h:
 
-_deps/ftxui-src/include/ftxui/component/animation.hpp:
+_deps/ftxui-src/src/ftxui/component/event.cpp:
 
-/usr/include/bits/flt-eval-method.h:
+/usr/lib/clang/18/include/__stddef_max_align_t.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h:
+/usr/lib/clang/18/include/__stddef_nullptr_t.h:
 
-/usr/include/c++/14.2.1/bits/stl_tree.h:
+_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp:
 
-_deps/ftxui-src/src/ftxui/component/component_options.cpp:
+/usr/lib/clang/18/include/__stddef_ptrdiff_t.h:
 
-/usr/include/c++/14.2.1/bits/atomic_base.h:
+/usr/include/c++/14.2.1/bits/hashtable.h:
+
+/usr/lib/clang/18/include/__stddef_wchar_t.h:
 
 _deps/ftxui-src/src/ftxui/component/button.cpp:
 
 /usr/include/bits/struct_rwlock.h:
 
 _deps/ftxui-src/include/ftxui/component/component_base.hpp:
+
+/usr/lib/clang/18/include/stddef.h:
 
 _deps/ftxui-src/include/ftxui/component/component_options.hpp:
 
@@ -6487,7 +6736,13 @@ _deps/ftxui-src/include/ftxui/component/event.hpp:
 
 _deps/ftxui-src/include/ftxui/component/mouse.hpp:
 
+/usr/lib/clang/18/include/__stddef_null.h:
+
 _deps/ftxui-src/include/ftxui/component/screen_interactive.hpp:
+
+/usr/include/c++/14.2.1/bits/locale_facets.h:
+
+/usr/include/c++/14.2.1/pstl/execution_defs.h:
 
 _deps/ftxui-src/include/ftxui/component/task.hpp:
 
@@ -6503,53 +6758,21 @@ _deps/ftxui-src/include/ftxui/screen/box.hpp:
 
 _deps/ftxui-src/include/ftxui/dom/node.hpp:
 
-_deps/ftxui-src/include/ftxui/screen/image.hpp:
-
-_deps/ftxui-src/include/ftxui/screen/string.hpp:
+/usr/include/asm-generic/errno-base.h:
 
 _deps/ftxui-src/include/ftxui/screen/color.hpp:
 
-/usr/include/asm-generic/errno-base.h:
+_deps/ftxui-src/include/ftxui/screen/image.hpp:
 
-/usr/include/bits/cpu-set.h:
-
-/usr/include/bits/locale.h:
-
-/usr/include/c++/14.2.1/tr1/ell_integral.tcc:
-
-/usr/include/bits/pthread_stack_min-dynamic.h:
-
-/usr/include/c++/14.2.1/bits/this_thread_sleep.h:
-
-/usr/include/bits/termios-baud.h:
-
-/usr/include/features.h:
-
-/usr/include/bits/sched.h:
-
-/usr/include/bits/types/__FILE.h:
-
-/usr/include/c++/14.2.1/bits/utility.h:
-
-/usr/include/c++/14.2.1/bits/stl_construct.h:
-
-/usr/include/c++/14.2.1/ext/atomicity.h:
-
-/usr/include/c++/14.2.1/pstl/glue_algorithm_defs.h:
-
-/usr/include/bits/types/__fpos64_t.h:
-
-/usr/include/c++/14.2.1/bits/stl_uninitialized.h:
-
-/usr/include/bits/types/struct_sched_param.h:
+_deps/ftxui-src/include/ftxui/screen/string.hpp:
 
 /usr/include/c++/14.2.1/backward/auto_ptr.h:
 
 /usr/include/c++/14.2.1/cerrno:
 
-/usr/include/bits/select.h:
-
 /usr/include/c++/14.2.1/tr1/special_function_util.h:
+
+/usr/include/bits/select.h:
 
 /usr/include/c++/14.2.1/bits/algorithmfwd.h:
 
@@ -6558,6 +6781,12 @@ _deps/ftxui-src/include/ftxui/screen/color.hpp:
 /usr/include/linux/errno.h:
 
 /usr/include/c++/14.2.1/bits/allocated_ptr.h:
+
+/usr/include/c++/14.2.1/bits/stl_tree.h:
+
+_deps/ftxui-src/src/ftxui/component/component_options.cpp:
+
+/usr/include/c++/14.2.1/bits/atomic_base.h:
 
 /usr/include/bits/signum-arch.h:
 
@@ -6601,6 +6830,8 @@ _deps/ftxui-src/include/ftxui/screen/color.hpp:
 
 /usr/include/c++/14.2.1/bits/stringfwd.h:
 
+/usr/include/c++/14.2.1/bits/this_thread_sleep.h:
+
 /usr/include/c++/14.2.1/bits/unique_lock.h:
 
 _deps/ftxui-src/include/ftxui/dom/deprecated.hpp:
@@ -6621,8 +6852,34 @@ _deps/ftxui-src/include/ftxui/dom/deprecated.hpp:
 
 /usr/include/c++/14.2.1/cwchar:
 
+/usr/include/c++/14.2.1/pstl/glue_memory_defs.h:
+
 /usr/include/c++/14.2.1/deque:
+
+_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp:
+
+/usr/include/bits/getopt_posix.h:
+
+/usr/include/errno.h:
+
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++locale.h:
+
+/usr/include/c++/14.2.1/bits/utility.h:
+
+/usr/include/c++/14.2.1/bits/stl_construct.h:
+
+/usr/include/c++/14.2.1/ext/atomicity.h:
 
 _deps/ftxui-src/src/ftxui/component/util.cpp:
 
 /usr/include/c++/14.2.1/iosfwd:
+
+/usr/include/tbb/tbb.h:
+
+/usr/include/c++/14.2.1/optional:
+
+/usr/include/c++/14.2.1/queue:
+
+/usr/include/c++/14.2.1/bits/streambuf.tcc:
+
+/usr/include/c++/14.2.1/variant:

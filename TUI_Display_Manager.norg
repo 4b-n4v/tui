@@ -1,0 +1,19 @@
+* TUI DISPLAY MANAGER
+  ** Basic Functionalities
+     - Once run, show a selection of predetermined display presets
+     -- Extend144 -> Sets display on the external monitor as 1920x1080p @ 144hz 
+     -- Extend-TV -> Sets display on the external monitor as 1920x1080p @ 60hz to allow for TV display to show
+
+
+** Some things to consider
+   How to change a monitor file?
+   - Access a specific area of the user ~/.config/hypr/monitors.conf
+   - Write access to this file.
+
+
+** Future Features
+   - Daemon? Running in the background?
+   -- Detection of external display connection sets to maximum preset automatically
+   - Be able to create other presets in the app.
+   - Be able save to arrange selection display mode list
+   - Overall kind of like `nwg-displays` but on the terminal
