@@ -11,13 +11,27 @@
 int main(int argc, char **argv)
 {
     using namespace ftxui;
+    std::string monitorconf_path = get_monitor_path();
     if (argc != 1)
     {
-        std::cout << argv[0] << "takes no arguments.\n";
-        return 1;
+        std::string cmd_arg = argv[1];
+        if (cmd_arg == "Extend-144")
+        {
+            extend144(monitorconf_path);
+            return 0;
+        }
+        else if (cmd_arg == "Extend-TV")
+        {
+            extend_tv(monitorconf_path);
+            return 0;
+        }
+        else
+        {
+            std::cout << "Invalid argument: " << cmd_arg << std::endl;
+            return 1;
+        }
     }
     // Get monitor path from function
-    std::string monitorconf_path = get_monitor_path();
     // Define User Interface
     std::vector<std::string>
         entries =
@@ -30,11 +44,11 @@ int main(int argc, char **argv)
     auto screen = ScreenInteractive::Fullscreen();
     MenuOption option;
     option.on_enter = screen.ExitLoopClosure();
+    auto menu = Menu(&entries, &selected, option);
     // Define border around  menu
-    // auto renderer = Renderer(menu, [&]
-    //                          { return menu->Render() | border | frame; });
-    auto layout = Container::Horizontal({Menu(&entries, &selected, option)});
-    screen.Loop(layout);
+    auto renderer = Renderer(menu, [&]
+                             { return menu->Render() | border; });
+    screen.Loop(renderer);
 
     if (selected == 0)
         extend144(monitorconf_path);
