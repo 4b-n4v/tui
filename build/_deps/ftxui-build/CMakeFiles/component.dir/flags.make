@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/clang++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/n4v/Projects/tui/build/_deps/ftxui-src/src -isystem /home/n4v/Projects/tui/build/_deps/ftxui-src/include
+CXX_INCLUDES = -I/home/n4v/tui/build/_deps/ftxui-src/src -isystem /home/n4v/tui/build/_deps/ftxui-src/include
 
 CXX_FLAGS = -fPIC
 

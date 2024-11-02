@@ -1,5 +1,5 @@
 _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o: \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp \
+  /home/n4v/tui/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstdlib \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -10,8 +10,7 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o: \
   /usr/include/gnu/stubs-64.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/pstl_config.h \
-  /usr/include/tbb/tbb.h /usr/include/stdlib.h \
-  /usr/include/bits/libc-header-start.h \
+  /usr/include/stdlib.h /usr/include/bits/libc-header-start.h \
   /usr/lib/clang/18/include/stddef.h \
   /usr/lib/clang/18/include/__stddef_size_t.h \
   /usr/lib/clang/18/include/__stddef_wchar_t.h \
@@ -123,7 +122,7 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/uses_allocator.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/uses_allocator_args.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/tuple \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
   /usr/include/sys/ioctl.h /usr/include/bits/ioctls.h \
   /usr/include/asm/ioctls.h /usr/include/asm-generic/ioctls.h \
   /usr/include/linux/ioctl.h /usr/include/asm/ioctl.h \

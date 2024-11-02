@@ -12,6 +12,13 @@
 std::string get_monitor_path();
 
 /* FUNCTION
+ * Extend:
+ * Change second monitor to vertical
+ * and set refresh rate to maximum
+ *
+ */
+void vertical(std::string &mp);
+/* FUNCTION
  * Extend144:
  * Change second monitor
  * and set refresh rate to maximum

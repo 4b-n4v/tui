@@ -1,5 +1,5 @@
 _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.o: \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/src/ftxui/screen/image.cpp \
+  /home/n4v/tui/build/_deps/ftxui-src/src/ftxui/screen/image.cpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/sstream \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/requires_hosted.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -11,7 +11,6 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.o: \
   /usr/include/gnu/stubs-64.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/pstl_config.h \
-  /usr/include/tbb/tbb.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/istream \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/ios \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/iosfwd \
@@ -165,15 +164,15 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/ostream.tcc \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/istream.tcc \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/sstream.tcc \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/vector \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_uninitialized.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_vector.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_bvector.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/vector.tcc \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstdint \
   /usr/lib/clang/18/include/stdint.h /usr/include/stdint.h \
   /usr/include/bits/stdint-uintn.h /usr/include/bits/stdint-least.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp

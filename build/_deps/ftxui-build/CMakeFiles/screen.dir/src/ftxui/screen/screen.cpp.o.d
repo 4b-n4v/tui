@@ -1,6 +1,6 @@
 _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o: \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp \
-  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstdint \
+  /home/n4v/tui/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp \
+  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstddef \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h /usr/include/features-time64.h \
@@ -10,12 +10,21 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o: \
   /usr/include/gnu/stubs-64.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/pstl_config.h \
-  /usr/include/tbb/tbb.h /usr/lib/clang/18/include/stdint.h \
-  /usr/include/stdint.h /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
-  /usr/include/bits/time64.h /usr/include/bits/wchar.h \
-  /usr/include/bits/stdint-intn.h /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdint-least.h \
+  /usr/lib/clang/18/include/stddef.h \
+  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/version.h \
+  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstdint \
+  /usr/lib/clang/18/include/stdint.h /usr/include/stdint.h \
+  /usr/include/bits/libc-header-start.h /usr/include/bits/types.h \
+  /usr/include/bits/typesizes.h /usr/include/bits/time64.h \
+  /usr/include/bits/wchar.h /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-uintn.h /usr/include/bits/stdint-least.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/iostream \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/requires_hosted.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/ostream \
@@ -26,11 +35,7 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/postypes.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cwchar \
   /usr/include/wchar.h /usr/include/bits/floatn.h \
-  /usr/include/bits/floatn-common.h /usr/lib/clang/18/include/stddef.h \
-  /usr/lib/clang/18/include/__stddef_size_t.h \
-  /usr/lib/clang/18/include/__stddef_wchar_t.h \
-  /usr/lib/clang/18/include/__stddef_null.h \
-  /usr/lib/clang/18/include/stdarg.h \
+  /usr/include/bits/floatn-common.h /usr/lib/clang/18/include/stdarg.h \
   /usr/lib/clang/18/include/__stdarg___gnuc_va_list.h \
   /usr/include/bits/types/wint_t.h /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h /usr/include/bits/types/__FILE.h \
@@ -38,14 +43,9 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o: \
   /usr/include/bits/types/__locale_t.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/exception \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/exception.h \
-  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/version.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/exception_ptr.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/exception_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/cxxabi_init_exception.h \
-  /usr/lib/clang/18/include/__stddef_ptrdiff_t.h \
-  /usr/lib/clang/18/include/__stddef_nullptr_t.h \
-  /usr/lib/clang/18/include/__stddef_max_align_t.h \
-  /usr/lib/clang/18/include/__stddef_offsetof.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/typeinfo \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/hash_bytes.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/new \
@@ -144,7 +144,6 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/charconv.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/basic_string.tcc \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/memory_resource.h \
-  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstddef \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/uses_allocator.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/uses_allocator_args.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/tuple \
@@ -178,15 +177,15 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/sstream.tcc \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/utility \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_relops.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/vector \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_uninitialized.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_vector.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_bvector.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/vector.tcc \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/string.hpp
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/string.hpp

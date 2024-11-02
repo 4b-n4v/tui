@@ -1,6 +1,6 @@
 CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o: \
-  /home/n4v/Projects/tui/src/helperfunctions.cpp \
-  /home/n4v/Projects/tui/src/helperfunctions.h \
+  /home/n4v/tui/src/helperfunctions.cpp \
+  /home/n4v/tui/src/helperfunctions.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstdlib \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -11,8 +11,7 @@ CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o: \
   /usr/include/gnu/stubs-64.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/pstl_config.h \
-  /usr/include/tbb/tbb.h /usr/include/stdlib.h \
-  /usr/include/bits/libc-header-start.h \
+  /usr/include/stdlib.h /usr/include/bits/libc-header-start.h \
   /usr/lib/clang/18/include/stddef.h \
   /usr/lib/clang/18/include/__stddef_size_t.h \
   /usr/lib/clang/18/include/__stddef_wchar_t.h \

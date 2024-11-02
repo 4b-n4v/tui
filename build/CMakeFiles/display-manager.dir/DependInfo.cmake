@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/n4v/Projects/tui/src/helperfunctions.cpp" "CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o" "gcc" "CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o.d"
-  "/home/n4v/Projects/tui/src/main.cpp" "CMakeFiles/display-manager.dir/src/main.cpp.o" "gcc" "CMakeFiles/display-manager.dir/src/main.cpp.o.d"
+  "/home/n4v/tui/src/helperfunctions.cpp" "CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o" "gcc" "CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o.d"
+  "/home/n4v/tui/src/main.cpp" "CMakeFiles/display-manager.dir/src/main.cpp.o" "gcc" "CMakeFiles/display-manager.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

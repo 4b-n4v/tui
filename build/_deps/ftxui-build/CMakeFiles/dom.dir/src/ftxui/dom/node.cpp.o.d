@@ -1,6 +1,6 @@
 _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/src/ftxui/dom/node.cpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/src/ftxui/dom/node.cpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/utility \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -11,7 +11,6 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: \
   /usr/include/gnu/stubs-64.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/pstl_config.h \
-  /usr/include/tbb/tbb.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_relops.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_pair.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/type_traits \
@@ -19,7 +18,7 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/move.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/utility.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/initializer_list \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/memory \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/memoryfwd.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/allocator.h \
@@ -133,8 +132,8 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/memory_resource.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstddef \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/uses_allocator_args.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstdint \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/string \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/char_traits.h \
@@ -171,7 +170,7 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: \
   /usr/include/bits/types/error_t.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/charconv.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/basic_string.tcc \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp

@@ -7,9 +7,9 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/n4v/Projects/tui/CMakeLists.txt"
-  "CMakeFiles/3.30.2/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.30.2/CMakeSystem.cmake"
+  "/home/n4v/tui/CMakeLists.txt"
+  "CMakeFiles/3.30.5/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.30.5/CMakeSystem.cmake"
   "_deps/ftxui-src/CMakeLists.txt"
   "_deps/ftxui-src/cmake/ftxui-config.cmake.in"
   "_deps/ftxui-src/cmake/ftxui_benchmark.cmake"

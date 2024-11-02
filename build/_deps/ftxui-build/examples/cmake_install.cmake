@@ -1,4 +1,4 @@
-# Install script for directory: /home/n4v/Projects/tui/build/_deps/ftxui-src/examples
+# Install script for directory: /home/n4v/tui/build/_deps/ftxui-src/examples
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,6 +39,6 @@ endif()
 
 # Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/usr/bin/objdump")
+  set(CMAKE_OBJDUMP "/usr/bin/llvm-objdump")
 endif()
 

@@ -1,6 +1,6 @@
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o: \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp \
+  /home/n4v/tui/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/string \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/requires_hosted.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -12,7 +12,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
   /usr/include/gnu/stubs-64.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/pstl_config.h \
-  /usr/include/tbb/tbb.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stringfwd.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/memoryfwd.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/char_traits.h \
@@ -129,8 +128,8 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_vector.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_bvector.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/vector.tcc \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/algorithm \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_algo.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/algorithmfwd.h \
@@ -193,7 +192,7 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_queue.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/utility \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_relops.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/functional \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/std_function.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/unordered_map \
@@ -206,7 +205,7 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/array \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/compare \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/variant \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/map \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_tree.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_map.h \

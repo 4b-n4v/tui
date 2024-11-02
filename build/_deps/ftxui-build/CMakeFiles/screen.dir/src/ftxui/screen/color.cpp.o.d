@@ -1,6 +1,6 @@
 _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o: \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/src/ftxui/screen/color.cpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/src/ftxui/screen/color.cpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstdint \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -11,12 +11,11 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o: \
   /usr/include/gnu/stubs-64.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/pstl_config.h \
-  /usr/include/tbb/tbb.h /usr/lib/clang/18/include/stdint.h \
-  /usr/include/stdint.h /usr/include/bits/libc-header-start.h \
-  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
-  /usr/include/bits/time64.h /usr/include/bits/wchar.h \
-  /usr/include/bits/stdint-intn.h /usr/include/bits/stdint-uintn.h \
-  /usr/include/bits/stdint-least.h \
+  /usr/lib/clang/18/include/stdint.h /usr/include/stdint.h \
+  /usr/include/bits/libc-header-start.h /usr/include/bits/types.h \
+  /usr/include/bits/typesizes.h /usr/include/bits/time64.h \
+  /usr/include/bits/wchar.h /usr/include/bits/stdint-intn.h \
+  /usr/include/bits/stdint-uintn.h /usr/include/bits/stdint-least.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/string \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/requires_hosted.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stringfwd.h \
@@ -150,5 +149,5 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/tr1/poly_hermite.tcc \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/tr1/poly_laguerre.tcc \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/tr1/riemann_zeta.tcc \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/color_info.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/color_info.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp

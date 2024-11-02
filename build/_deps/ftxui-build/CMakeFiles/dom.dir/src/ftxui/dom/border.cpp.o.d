@@ -1,5 +1,5 @@
 _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o: \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/src/ftxui/dom/border.cpp \
+  /home/n4v/tui/build/_deps/ftxui-src/src/ftxui/dom/border.cpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/algorithm \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_algobase.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -11,7 +11,6 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o: \
   /usr/include/gnu/stubs-64.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/pstl_config.h \
-  /usr/include/tbb/tbb.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/functexcept.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/exception_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/cpp_type_traits.h \
@@ -74,7 +73,7 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/array \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/compare \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/range_access.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstdint \
   /usr/lib/clang/18/include/stdint.h /usr/include/stdint.h \
   /usr/include/bits/wchar.h /usr/include/bits/stdint-uintn.h \
@@ -175,11 +174,7 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/enable_special_members.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/utility \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_relops.h \
-  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/vector \
-  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_vector.h \
-  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_bvector.h \
-  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/vector.tcc \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/functional \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/std_function.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/unordered_map \
@@ -188,20 +183,24 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/hashtable_policy.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/node_handle.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/erase_if.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
+  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/vector \
+  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_vector.h \
+  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_bvector.h \
+  /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/vector.tcc \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/variant \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/parse_numbers.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp

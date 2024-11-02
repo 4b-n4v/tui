@@ -1,5 +1,5 @@
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o: \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp \
+  /home/n4v/tui/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/functional \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -10,7 +10,6 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o: \
   /usr/include/gnu/stubs-64.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/pstl_config.h \
-  /usr/include/tbb/tbb.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_function.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/move.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/type_traits \
@@ -82,7 +81,7 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/compare \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/utility \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_relops.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/component.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/component.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/memory \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_tempbuf.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_raw_storage_iter.h \
@@ -143,10 +142,10 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/backward/auto_ptr.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/glue_memory_defs.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/pstl/execution_defs.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/component_base.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/component_base.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/string \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/char_traits.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/localefwd.h \
@@ -182,37 +181,37 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o: \
   /usr/include/bits/types/error_t.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/charconv.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/basic_string.tcc \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/cstdint \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/direction.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/direction.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/optional \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/variant \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/parse_numbers.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/component_options.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/component_options.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/chrono \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/chrono.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/ratio \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/limits \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/ctime \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/animation.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/animation.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/atomic \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/algorithm \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/stl_algo.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/algorithmfwd.h \
@@ -232,5 +231,5 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/thread \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/std_thread.h \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../include/c++/14.2.1/bits/this_thread_sleep.h \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
-  /home/n4v/Projects/tui/build/_deps/ftxui-src/src/ftxui/screen/util.hpp
+  /home/n4v/tui/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
+  /home/n4v/tui/build/_deps/ftxui-src/src/ftxui/screen/util.hpp

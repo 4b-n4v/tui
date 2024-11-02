@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/n4v/Projects/tui
+CMAKE_SOURCE_DIR = /home/n4v/tui
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/n4v/Projects/tui/build
+CMAKE_BINARY_DIR = /home/n4v/tui/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/display-manager.dir/depend.make
@@ -70,32 +70,32 @@ include CMakeFiles/display-manager.dir/progress.make
 include CMakeFiles/display-manager.dir/flags.make
 
 CMakeFiles/display-manager.dir/src/main.cpp.o: CMakeFiles/display-manager.dir/flags.make
-CMakeFiles/display-manager.dir/src/main.cpp.o: /home/n4v/Projects/tui/src/main.cpp
+CMakeFiles/display-manager.dir/src/main.cpp.o: /home/n4v/tui/src/main.cpp
 CMakeFiles/display-manager.dir/src/main.cpp.o: CMakeFiles/display-manager.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/n4v/Projects/tui/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/display-manager.dir/src/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/display-manager.dir/src/main.cpp.o -MF CMakeFiles/display-manager.dir/src/main.cpp.o.d -o CMakeFiles/display-manager.dir/src/main.cpp.o -c /home/n4v/Projects/tui/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/n4v/tui/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/display-manager.dir/src/main.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/display-manager.dir/src/main.cpp.o -MF CMakeFiles/display-manager.dir/src/main.cpp.o.d -o CMakeFiles/display-manager.dir/src/main.cpp.o -c /home/n4v/tui/src/main.cpp
 
 CMakeFiles/display-manager.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/display-manager.dir/src/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/n4v/Projects/tui/src/main.cpp > CMakeFiles/display-manager.dir/src/main.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/n4v/tui/src/main.cpp > CMakeFiles/display-manager.dir/src/main.cpp.i
 
 CMakeFiles/display-manager.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/display-manager.dir/src/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/n4v/Projects/tui/src/main.cpp -o CMakeFiles/display-manager.dir/src/main.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/n4v/tui/src/main.cpp -o CMakeFiles/display-manager.dir/src/main.cpp.s
 
 CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o: CMakeFiles/display-manager.dir/flags.make
-CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o: /home/n4v/Projects/tui/src/helperfunctions.cpp
+CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o: /home/n4v/tui/src/helperfunctions.cpp
 CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o: CMakeFiles/display-manager.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/n4v/Projects/tui/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o -MF CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o.d -o CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o -c /home/n4v/Projects/tui/src/helperfunctions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/n4v/tui/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o -MF CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o.d -o CMakeFiles/display-manager.dir/src/helperfunctions.cpp.o -c /home/n4v/tui/src/helperfunctions.cpp
 
 CMakeFiles/display-manager.dir/src/helperfunctions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/display-manager.dir/src/helperfunctions.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/n4v/Projects/tui/src/helperfunctions.cpp > CMakeFiles/display-manager.dir/src/helperfunctions.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/n4v/tui/src/helperfunctions.cpp > CMakeFiles/display-manager.dir/src/helperfunctions.cpp.i
 
 CMakeFiles/display-manager.dir/src/helperfunctions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/display-manager.dir/src/helperfunctions.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/n4v/Projects/tui/src/helperfunctions.cpp -o CMakeFiles/display-manager.dir/src/helperfunctions.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/n4v/tui/src/helperfunctions.cpp -o CMakeFiles/display-manager.dir/src/helperfunctions.cpp.s
 
 # Object files for target display-manager
 display__manager_OBJECTS = \
@@ -114,7 +114,7 @@ display-manager: _deps/ftxui-build/libftxui-component.a
 display-manager: _deps/ftxui-build/libftxui-dom.a
 display-manager: _deps/ftxui-build/libftxui-screen.a
 display-manager: CMakeFiles/display-manager.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/n4v/Projects/tui/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable display-manager"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/n4v/tui/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable display-manager"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/display-manager.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -126,6 +126,6 @@ CMakeFiles/display-manager.dir/clean:
 .PHONY : CMakeFiles/display-manager.dir/clean
 
 CMakeFiles/display-manager.dir/depend:
-	cd /home/n4v/Projects/tui/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/n4v/Projects/tui /home/n4v/Projects/tui /home/n4v/Projects/tui/build /home/n4v/Projects/tui/build /home/n4v/Projects/tui/build/CMakeFiles/display-manager.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/n4v/tui/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/n4v/tui /home/n4v/tui /home/n4v/tui/build /home/n4v/tui/build /home/n4v/tui/build/CMakeFiles/display-manager.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/display-manager.dir/depend
 
