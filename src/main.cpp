@@ -36,9 +36,9 @@ int main(int argc, char **argv)
     std::vector<std::string>
         entries =
             {
-                "󰍹  Vertical",
                 "󰍹  Extend-144",
-                "󰍹󰟴 Extend-TV"};
+                "󰍹󰟴 Extend-TV",
+                "󰍹  Vertical"};
 
     int selected = 0;
 
@@ -52,11 +52,13 @@ int main(int argc, char **argv)
     screen.Loop(renderer);
 
     if (selected == 0)
-        vertical(monitorconf_path);
-    else if (selected == 1)
         extend144(monitorconf_path);
-    else if (selected == 2)
+    else if (selected == 1)
         extend_tv(monitorconf_path);
+    else if (selected == 2)
+        vertical(monitorconf_path);
+    else
+        return 0;
 
     return 0;
 }
